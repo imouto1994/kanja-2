@@ -64,8 +64,8 @@ async function main() {
     sections.push(`${fileName}\n${HEADER_SEPARATOR}\n${lines.join("\n")}`);
   }
 
-  // Step 5: Join all sections with separators and write to disk.
-  const output = sections.join(`\n${SECTION_SEPARATOR}\n`);
+  // Step 5: Prepend each section with a separator and write to disk.
+  const output = sections.map((s) => `${SECTION_SEPARATOR}\n${s}`).join("\n");
   await writeFile(OUTPUT_FILE, output + "\n", "utf-8");
 
   console.log(`${files.length} files merged into ${OUTPUT_FILE}`);

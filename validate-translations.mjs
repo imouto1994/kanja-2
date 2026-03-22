@@ -98,8 +98,9 @@ const SPEAKER_MAP = new Map([
  * Parse a merged text file into a Map of { fileName → nonEmptyLines[] }.
  */
 function parseSections(text) {
-  // Step 1: Split file into raw blocks by the section separator.
-  const raw = text.split(`\n${SECTION_SEPARATOR}\n`);
+  // Step 1: Split file into raw blocks by the section separator line.
+  // Each section starts with "--------------------\n" (including the first).
+  const raw = text.split(`${SECTION_SEPARATOR}\n`);
   const sections = new Map();
 
   for (const block of raw) {
