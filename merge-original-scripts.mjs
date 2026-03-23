@@ -21,7 +21,7 @@
  */
 
 import { glob } from "glob";
-import { readFile, writeFile } from "fs/promises";
+import { mkdir, readFile, rm, writeFile } from "fs/promises";
 import path from "path";
 
 const INPUT_DIR = "original-json";
@@ -29,6 +29,9 @@ const OUTPUT_FILE = "merged-original.txt";
 
 const SECTION_SEPARATOR = "--------------------";
 const HEADER_SEPARATOR = "********************";
+
+const MAX_CHUNK_LINES = 1200;
+const CHUNKS_DIR = "original-merged-chunks";
 
 async function main() {
   // Step 1: Discover all JSON files in the input directory.
@@ -69,6 +72,42 @@ async function main() {
   await writeFile(OUTPUT_FILE, output + "\n", "utf-8");
 
   console.log(`${files.length} files merged into ${OUTPUT_FILE}`);
+
+  // Step 6: Split sections into line-limited chunks.
+  await rm(CHUNKS_DIR, { recursive: true, force: true });
+  await mkdir(CHUNKS_DIR, { recursive: true });
+
+  const chunks = [];
+  let currentChunk = [];
+  let currentLineCount = 0;
+
+  for (const section of sections) {
+    const sectionText = `${SECTION_SEPARATOR}\n${section}`;
+    const sectionLineCount = sectionText.split("\n").length;
+
+    // If adding this section exceeds the limit and we already have content,
+    // flush the current chunk first.
+    if (currentLineCount + sectionLineCount > MAX_CHUNK_LINES && currentChunk.length > 0) {
+      chunks.push(currentChunk);
+      currentChunk = [];
+      currentLineCount = 0;
+    }
+
+    currentChunk.push(sectionText);
+    currentLineCount += sectionLineCount;
+  }
+
+  if (currentChunk.length > 0) {
+    chunks.push(currentChunk);
+  }
+
+  for (let i = 0; i < chunks.length; i++) {
+    const chunkNum = String(i + 1).padStart(3, "0");
+    const chunkPath = path.join(CHUNKS_DIR, `part-${chunkNum}.txt`);
+    await writeFile(chunkPath, chunks[i].join("\n") + "\n", "utf-8");
+  }
+
+  console.log(`${chunks.length} chunks written to ${CHUNKS_DIR}/`);
 }
 
 main().catch(console.error);
