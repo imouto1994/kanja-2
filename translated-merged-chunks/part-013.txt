@@ -1,0 +1,1032 @@
+--------------------
+stage19
+********************
+...And the following day, 10:00 AM...
+Knock, knock...
+$Hikomaro
+“...”
+$Hikomaro
+“...Huh?”
+$Sakimi
+“Morning.”
+$Hikomaro
+“...The window is open, I see.”
+Rattle, rattle, rattle.
+$Sakimi
+“Up... and... over.”
+$Hikomaro
+“It is rare to see you at such an hour.”
+$Sakimi
+“You think so?”
+$Hikomaro
+“It is a bit early for a lunch break.”
+$Sakimi
+“I went out of my way to change my route and stop by. I'm on my way to pick up some Kishide, and I've got the truck waiting downstairs.”
+$Hikomaro
+“So, in short, this is urgent business?”
+$Sakimi
+“Something like that.”
+$Hikomaro
+“I suspect that after you returned home, you had a spat with your husband?”
+$Sakimi
+“It’s not about Ma-kun... *Sigh*.”
+$Hikomaro
+“You say that, yet you look quite depressed, ho-ho.”
+$Sakimi
+“We were made to sleep in a single futon.”
+$Hikomaro
+“Huh?”
+$Sakimi
+“Ugh, I mean, I ended up sleeping all cuddled up with Ma-kun.”
+$Hikomaro
+“I fail to see the meaning of your dissatisfaction. It seems the punching incident didn't leave any lingering bitterness; isn't it wonderful that the couple is in harmony?”
+$Sakimi
+“He was hugging me tight until morning, you know.”
+$Hikomaro
+“I am nothing but envious.”
+$Sakimi
+“He was touching my breasts the whole time until morning, you know.”
+$Hikomaro
+“A husband’s greatest bliss, indeed.”
+$Sakimi
+“I couldn't get any rest at all... *Sigh*.”
+$Hikomaro
+“And so, the reason you came here isn't about your husband...”
+$Sakimi
+“That's right.”
+$Hikomaro
+“For you to come all this way, it must be something significant.”
+$Sakimi
+“I saw Yukina-chan in front of the station just now. It was only for a second as I passed by, so I couldn't talk to her.”
+$Hikomaro
+“She is a neighbor, after all; such things are bound to happen.”
+$Sakimi
+“But she was handing out tissues.”
+$Hikomaro
+“...Handing out tissues?”
+$Sakimi
+“And in a super miniskirt, at that.”
+$Hikomaro
+“...”
+$Sakimi
+“Plus, on top, she was only wearing a single long-sleeved T-shirt.”
+$Hikomaro
+“...That seems far too cold for the current season.”
+$Sakimi
+“Because the clothes were so thin, her chest really stood out.”
+$Hikomaro
+“...My mind is becoming quite confused.”
+$Sakimi
+“Anyway, she didn't look normal. I couldn't help but think maybe she started a job in the adult industry or something unnecessary like that.”
+$Hikomaro
+“And so you simply could not sit still?”
+$Sakimi
+“I thought I should let you know, Sensei.”
+$Hikomaro
+“...Maro is grateful for your concern.”
+$Sakimi
+“Well, I've got my coworkers waiting downstairs. If you go to Nakanocho Station right now, she might still be there.”
+Rattle, rattle, rattle.
+$Hikomaro
+“...”
+$Hikomaro
+“...Maro has no choice but to go, it seems.”
+Go
+Don't go
+Go
+Don't go
+Go
+Don't go
+Go
+$Hikomaro
+“...”
+$Hikomaro
+“...Phew.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Ho-ho.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Ho-ho-ho.”
+$Hikomaro
+“Maro shall go, then.”
+...10 minutes later...
+$Hikomaro
+“...”
+$Hikomaro
+“...There she is.”
+$Yukina
+“Here are some tissues, please take one if you'd like.”
+$Passerby A
+“D-Damn, look at those tits.”
+$Yukina
+“P-Please give Daisetsutei your patronage.”
+$Passerby A
+“Oh, I thought it was a sex shop, but I guess not.”
+$Yukina
+“I-I'm sorry.”
+$Passerby A
+“I'll take one for now. I'm more of an udon guy, though.”
+$Hikomaro
+“...”
+$Yukina
+“Tissues. Please take one if you'd like.”
+$Passerby B
+“Thanks, ge-he-he-he.”
+Squeeze.
+$Yukina
+“Ah...”
+$Passerby B
+“Ge-heh, ge-heh.”
+$Yukina
+“I think... you can take the tissues without having to hold my hand.”
+$Passerby B
+“Maybe I'll use these to, you know, jerk off.”
+$Yukina
+“E-Err, how you use them is up to the customer.”
+$Passerby B
+“...Want to see my cock?”
+$Yukina
+“N-No.”
+$Passerby B
+“Dressing in such a sexy outfit means you're inviting a fine young man like me, right?”
+$Yukina
+“C-Could you please let go of my hand now?”
+$Passerby B
+“No way.”
+$Hikomaro
+“...Pray, give Maro a tissue as well.”
+$Yukina
+“Ah, yes...”
+Ah!?
+$Hikomaro
+“Ho-ho.”
+$Yukina
+“S-Sensei...”
+$Hikomaro
+“Good afternoon.”
+$Yukina
+“G-Good afternoon.”
+$Passerby B
+“Tch, an acquaintance... My luck ran out...”
+$Hikomaro
+“Handing out tissues, are we?”
+$Yukina
+“Y-Yes.”
+$Hikomaro
+“With Daisetsutei flyers inside?”
+$Yukina
+“T-That's right.”
+$Hikomaro
+“You are working quite hard.”
+$Yukina
+“I decided on this after discussing it with my brother.”
+$Hikomaro
+“And where is that brother of yours?”
+$Yukina
+“Eh?”
+$Hikomaro
+“Where might he be handing out tissues?”
+$Yukina
+“M-My brother didn't come.”
+$Hikomaro
+“The little sister is all alone?”
+$Yukina
+“Y-Yes.”
+$Hikomaro
+“Maro believes it would be more efficient if two people were handing them out.”
+$Yukina
+“W-Well, there are preparations for the shop to do, and this is an amount that can be given out in an hour.”
+$Hikomaro
+“In this freezing weather, with such thin clothing?”
+$Yukina
+“I thought... if I dressed like this, maybe people would come to the shop.”
+$Hikomaro
+“Who could have possibly thought of such a thing?”
+$Yukina
+“Well...”
+Naturally, it was her brother.
+But she remains tight-lipped.
+A troubled smile lingers on her face.
+$Hikomaro
+“Are you not cold?”
+$Yukina
+“N-Not at all.”
+$Hikomaro
+“...How admirable.”
+$Yukina
+“If it makes the shop busy, this is nothing at all.”
+$Hikomaro
+“If you like, Maro shall help you.”
+$Yukina
+“Eh?”
+$Hikomaro
+“With the tissue distribution.”
+$Yukina
+“B-But...”
+$Hikomaro
+“If Maro were to hand them out, it would likely have the opposite effect, ho-ho.”
+$Yukina
+“T-That's not true.”
+$Hikomaro
+“Then let Maro act as your personal security. When a customer like the one before appears, Maro shall pose as a passerby and eliminate the threat... yes.”
+$Yukina
+“...Thank you very much.”
+...And 30 minutes later...
+$Yukina
+“...Phew.”
+$Hikomaro
+“It is nearly time for the shop to open.”
+$Yukina
+“Yes.”
+$Hikomaro
+“And the tissues were successfully distributed.”
+$Yukina
+“It's thanks to you helping me, Sensei. Thank you so much, truly.”
+$Hikomaro
+“Maro did nothing at all.”
+$Yukina
+“Just having you by my side made me feel safe.”
+$Hikomaro
+“Will you be handing them out again tomorrow?”
+$Yukina
+“That's the plan.”
+$Hikomaro
+“In the same outfit as today?”
+$Yukina
+“I-I guess it doesn't suit me after all.”
+$Hikomaro
+“On the contrary, Maro feels it suits you far too well.”
+$Yukina
+“I'll be continuing the tissue distribution for a while. My brother thought hard about it and decided we should do this.”
+$Hikomaro
+“To secure some male customers for the time being, I suppose.”
+$Yukina
+“He gets defensive as soon as anyone says anything, but it seems that after all the things you said to him, Sensei, he had some thoughts of his own.”
+$Hikomaro
+“...Oh my.”
+$Yukina
+“He said he wouldn't lose to an amateur like you...”
+Ah, I'm sorry.
+$Hikomaro
+“It is quite alright.”
+$Yukina
+“Since that's the idea he came up with, I want to cooperate with my brother as much as I can.”
+$Hikomaro
+“...Maro understands.”
+$Yukina
+“Um...”
+$Hikomaro
+“Yes.”
+$Yukina
+“...Will you be coming to the shop today?”
+$Hikomaro
+“Maro intends to.”
+$Yukina
+“If you like, we could go together now...”
+$Hikomaro
+“...No.”
+Maro smiles slightly and politely declines.
+$Hikomaro
+“Maro shall wander about for a bit before going. Perhaps due to the tissue effect, it will likely be crowded during the lunch hour.”
+$Yukina
+“...I hope so.”
+$Hikomaro
+“Maro shall see you later, then.”
+$Yukina
+“Yes, I'll be waiting for you at the shop.”
+$Hikomaro
+“...”
+$Hikomaro
+“...S-Sexy.”
+$Hikomaro
+“Maro's erection simply will not subside. Those plump, meaty thighs, those breasts that are the very essence of motherhood... *Huff, huff*...”
+$Hikomaro
+“Ah, that charm which robs Maro of the ability to walk normally. She was certainly worth Maro's attention; a prize catch equal to Madam Sakimi, indeed...”
+$Hikomaro
+“...”
+$Hikomaro
+“Maro must cool down a bit. For cooling down, a walk is the best thing of all.”
+Stroll, stroll.
+$Hikomaro
+“...”
+$Hikomaro
+“...The weather is quite fine, indeed.”
+Stroll, stroll.
+$Hikomaro
+“...Phew.”
+$Hikomaro
+“Finally, Maro’s cock has mellowed out.”
+$Hikomaro
+“...”
+$Hikomaro
+“At least the front of the shop looks no different than usual... indeed.”
+Rattle, rattle...
+$Hikomaro
+“...”
+$Hikomaro
+“...Phew.”
+The tissue effect.
+It has certainly taken hold.
+$Yukina
+“Welcome!”
+$Hikomaro
+“Have you not changed?”
+$Yukina
+“Y-Yes.”
+$Hikomaro
+“Without even an apron?”
+$Yukina
+“It's what I decided with my brother.”
+$Hikomaro
+“You are being quite thorough.”
+$Yukina
+“What would you like today?”
+$Hikomaro
+“Dandan noodles and an order of gyoza.”
+$Yukina
+“One dandan noodles and gyoza, coming up!”
+$Aniki
+“...”
+He is as silent as ever.
+The brother glancess toward Maro.
+His expression has a hint of a smug look.
+He's clearly bursting with the desire to brag.
+$Passerby A
+“Hey, miss, some water.”
+$Yukina
+“Yes, right away.”
+She gives a small bow.
+And patters off to the water server.
+Even though refills are self-service in this shop.
+What an insolent customer to ask specifically for it.
+$Yukina
+“Sorry to keep you waiting.”
+$Passerby A
+“Thanks a bunch.”
+$Hikomaro
+“...”
+He didn't ask because he was insolent.
+He had another clear objective in mind.
+The moment she placed the glass on the table.
+The customer didn't miss that split second.
+He leaned forward and peered right down her cleavage.
+A man not to be underestimated, Customer A.
+There wasn't a shred of hesitation in his gaze.
+One cannot let one's guard down for even a second.
+Order water yourself
+Stare along with him
+$Hikomaro
+“Miss, water for Maro as well...”
+$Aniki
+“...Hey.”
+$Hikomaro
+“Maro did not call for the brother.”
+$Aniki
+“The water is right there on the table. A fresh glass that hasn't even been touched.”
+$Hikomaro
+“Oh my, Maro had inadvertently forgotten... ho-ho.”
+$Aniki
+“We're busy, don't waste our time.”
+$Hikomaro
+“...”
+$Hikomaro
+“...What a nuisance of a brother, indeed.”
+$Hikomaro
+“Staaaare...”
+Sexy.
+Lust is about to surpass Maro's appetite.
+Those ripe breasts look so soft just from a glance.
+Someday, Maro wishes to squeeze those tits with both hands.
+And perform a medical examination to Maro's heart's content.
+$Aniki
+“...Hey.”
+$Hikomaro
+“W-What is it?”
+$Aniki
+“Where do you think you're looking?”
+$Hikomaro
+“Where Maro looks is Maro's own business.”
+$Aniki
+“...This isn't for your sake, you know.”
+The last comment was a whisper only Maro could hear.
+$Aniki
+“Don't go gawking at my sister.”
+$Hikomaro
+“Is Maro not a customer as well?”
+$Aniki
+“You're tainting her.”
+$Hikomaro
+“...”
+$Hikomaro
+“...What a nuisance of a brother, indeed.”
+$Passerby B
+“Miss, ge-sho, ge-sho.”
+$Yukina
+“Yes.”
+$Passerby B
+“I dropped the pepper shaker.”
+$Yukina
+“...Eh?”
+$Passerby B
+“Sorry, but could you pick it up for me? I'm busy eating and my hands are full... ge-sho, ge-sho.”
+$Aniki
+“...”
+$Yukina
+“I-I understand.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Phew.”
+A panty flash.
+Formally known as a "pantira."
+$Passerby B
+“Ge-sho, ge-sho, ge-sho... E-Ecstasyyy.”
+That man who humiliated Yukina-chan.
+The piece of shit who held her hand at the station.
+And talked about jerking off, indeed.
+Drop the pepper shaker too
+Stare along with him
+Thud, roll.
+$Hikomaro
+“Excuse me~, Maro has also... dropped the pepper on the floor...”
+$Aniki
+“...Hey.”
+$Hikomaro
+“Maro did not call for the brother.”
+$Hikomaro
+“The brother need not come.”
+$Aniki
+“Pick it up yourself.”
+$Hikomaro
+“Are those the words one uses for a customer?”
+$Aniki
+“The hell are you saying after dropping it on purpose?”
+$Hikomaro
+“*Gasp*.”
+$Aniki
+“I hit the nail on the head, didn't I, old man?”
+$Hikomaro
+“...”
+$Hikomaro
+“...Maro has failed, it seems.”
+$Hikomaro
+“Staaaare...”
+Sexy.
+Lust is about to surpass Maro's appetite.
+Truly sexy.
+Lust is increasingly about to surpass Maro's appetite.
+A pure white thin cloth wrapped in stockings.
+The fleshy mons pubis bulges plumply.
+Maro instinctively wants to nuzzle Maro's cheek against it.
+It must surely be warm.
+Just as warm as Yukina-chan's kindness.
+$Aniki
+“...Hey.”
+$Hikomaro
+“Huff... huff... W-What is it?”
+$Aniki
+“Where do you think you're looking?”
+$Hikomaro
+“Where Maro looks is Maro's own business.”
+$Aniki
+“...This isn't for your sake, you know.”
+The last comment was a whisper only Maro could hear.
+$Aniki
+“Don't go gawking at my sister.”
+$Hikomaro
+“Is Maro not a customer as well?”
+$Aniki
+“She gets tainted, my sister does.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Truly, a most meddlesome brother, Maro thinks.”
+$Hikomaro
+“Thank you for the meal.”
+$Yukina
+“Thank you for coming, as always.”
+$Hikomaro
+“Today it was dandan noodles and gyoza, so...”
+$Yukina
+“That will be 1,100 yen.”
+$Hikomaro
+“...Indeed.”
+$Aniki
+“...”
+$Hikomaro
+“Maro has not forgotten his wallet, you know.”
+$Aniki
+“You're not going to complain about this and that today?”
+$Hikomaro
+“...Thank you for the meal.”
+$Aniki
+“I guess that means you admit defeat.”
+$Hikomaro
+“To what might you be referring?”
+$Aniki
+“Service attitude didn't matter at all, did it?”
+$Hikomaro
+“Pardon?”
+$Aniki
+“With just a little spark of inspiration, the number of customers definitely increased. My management skills are superior.”
+$Hikomaro
+“Maro was unaware we were competing.”
+$Aniki
+“I figured you'd say that.”
+$Hikomaro
+“Take good care of your sister.”
+$Aniki
+“...What's that supposed to mean?”
+$Yukina
+“B-Brother.”
+$Hikomaro
+“It means exactly what Maro said.”
+$Aniki
+“I'll take that as a sore loser's parting shot. Just pay for what you ate and get your ass home.”
+$Hikomaro
+“Maro shall do so even without being told.”
+Rattle, rattle, rattle...
+$Hikomaro
+“...”
+$Hikomaro
+“...Phew.”
+$Yukina
+“W-Wait, please!”
+$Hikomaro
+“...Is there something else?”
+$Yukina
+“I-I'm so sorry that he's always so confrontational.”
+$Hikomaro
+“You need not worry about it. For the time being, what your brother has said is not incorrect.”
+$Yukina
+“W-Will you come again tomorrow?”
+$Hikomaro
+“Maro shall come even if only out of sheer spite, of course.”
+$Yukina
+“G-Good.”
+$Hikomaro
+“Well then, until next time.”
+$Yukina
+“T-Thank you very much, Sensei.”
+...And the following day...
+$Hikomaro
+“...”
+$Hikomaro
+“...Maro has found his way here again today.”
+Rattle, rattle, rattle...
+$Hikomaro
+“Phew...”
+The time of arrival was nearly the same.
+But it was even more crowded than yesterday.
+To anyone's eyes, it was overflowing with vitality.
+$Hikomaro
+“Good afternoon.”
+$Yukina
+“...Welcome.”
+$Hikomaro
+“Business seems to be booming.”
+$Yukina
+“Thanks to you, somehow.”
+$Hikomaro
+“Did you perhaps hand out tissues today as well?”
+$Yukina
+“Yes.”
+$Hikomaro
+“In that outfit, just like yesterday?”
+$Yukina
+“That's right.”
+$Hikomaro
+“...It seems the results are showing.”
+$Yukina
+“It was worth the effort.”
+$Hikomaro
+“It is a happy thing when effort is rewarded.”
+$Yukina
+“What would you like to order?”
+$Hikomaro
+“Today, Maro shall have salt ramen and a half-order of fried rice.”
+$Yukina
+“One salt ramen and half-order of fried rice, coming up!”
+$Aniki
+“...”
+$Yukina
+“About Ayase-san, after that...”
+$Hikomaro
+“Maro sees her every now and then.”
+$Yukina
+“I'm a little jealous.”
+$Hikomaro
+“Maro wonders why?”
+$Yukina
+“Because when I visited, it was truly, truly fun.”
+$Hikomaro
+“Then, if there is another opportunity, we should all talk together...”
+$Passerby A
+“Miss, some water.”
+$Yukina
+“Ah... yes.”
+She gave a small bow.
+And pattered off to the water server.
+The one who called her was the same customer as yesterday.
+He was already tracking her every move with his eyes.
+$Yukina
+“H-Here you go, sorry for the wait.”
+$Passerby A
+“Thanks a bunch.”
+The moment she placed the cup on the table.
+The one who didn't miss it wasn't just that customer.
+Every customer in the vicinity stopped their chopsticks.
+They were all trying to savor that brief glimpse.
+$Passerby B
+“*Gulp*, *gulp*.”
+$Passerby C
+“*G-Gulp*...”
+$Passerby D
+“Whoa... oh...!”
+Men not to be underestimated.
+Every single one was a mass of shamelessness.
+Those voluptuous breasts became the prey of lecherous gazes.
+Order water yourself
+Stare along with him
+$Hikomaro
+“Miss, water for Maro as well...”
+$Aniki
+“...Hey.”
+$Hikomaro
+“Maro did not call for the brother.”
+$Aniki
+“The water is right there on the table. A fresh glass that hasn't even been touched.”
+$Hikomaro
+“Oh my, Maro had inadvertently forgotten... ho-ho.”
+$Aniki
+“We're busy, don't waste our time.”
+$Hikomaro
+“...”
+$Hikomaro
+“If you are so busy, do not come out of the kitchen... Maro thinks.”
+$Aniki
+“...Hey.”
+$Hikomaro
+“Another appearance?”
+$Aniki
+“Don't do the same damn thing you did yesterday.”
+$Hikomaro
+“Why is it that you keep coming out of the kitchen?”
+$Aniki
+“To protect my cute little sister.”
+$Hikomaro
+“Maro feels you aren't protecting her in the slightest.”
+$Aniki
+“For the other customers, that's just business.”
+$Hikomaro
+“And for Maro?”
+$Aniki
+“You're a customer we don't even need. Don't go getting any weird ideas, just eat quietly, pay for what you ate, and get the hell out.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Maro is being treated like total garbage.”
+$Hikomaro
+“Staaaare...”
+Sexy.
+Lust is about to surpass Maro's appetite.
+Those ripe breasts look so soft just from a glance.
+Someday, Maro wishes to squeeze those tits with both hands.
+And perform a medical examination to Maro's heart's content.
+As expected, sexy.
+Those full breasts have taken on a bell-like shape.
+From them, Maro feels an intense sense of motherhood.
+And Maro finds himself gulping down the saliva brought on by worldly desires.
+Someday, Maro wants to pinch the tips of those swellings with his fingers.
+And under the guise of milking, Maro would twiddle them incessantly.
+$Aniki
+“...Hey.”
+$Hikomaro
+“W-What is it?”
+$Aniki
+“Where do you think you're looking?”
+$Hikomaro
+“Where Maro looks is Maro's own business.”
+$Aniki
+“...This isn't for your sake, you know.”
+The last comment was a whisper only Maro could hear.
+$Aniki
+“Don't go gawking at my sister.”
+$Hikomaro
+“Is Maro not a customer as well?”
+$Aniki
+“You're tainting her.”
+$Hikomaro
+“...”
+$Hikomaro
+“...If that is the case, you should not have her do things that would taint her... Maro thinks.”
+$Aniki
+“...Hey.”
+$Hikomaro
+“Another appearance?”
+$Aniki
+“Don't do the same damn thing you did yesterday.”
+$Hikomaro
+“Why is it that you keep coming out of the kitchen?”
+$Aniki
+“To protect my cute little sister.”
+$Hikomaro
+“Maro feels you aren't protecting her in the slightest.”
+$Aniki
+“For the other customers, that's just business.”
+$Hikomaro
+“And for Maro?”
+$Aniki
+“You're a customer we don't even need. Don't go getting any weird ideas, just eat quietly, pay for what you ate, and get the hell out.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Maro is being treated like total garbage, indeed.”
+$Passerby B
+“Miss, *gulp*, *gulp*.”
+$Yukina
+“Yes.”
+$Passerby B
+“I dropped the pepper shaker again.”
+$Yukina
+“A-Again...?”
+$Passerby B
+“Sorry, but could you pick it up for me? I'm busy eating and my hands are full... *gulp*, *gulp*.”
+$Aniki
+“...”
+$Yukina
+“I-I understand.”
+$Yukina
+“Hnh...”
+$Passerby A
+“Oh...!”
+$Passerby C
+“Ooh... ooh...!”
+$Passerby D
+“I-I'm glad I came!”
+$Passerby B
+“*Gulp*, *gulp*... E-Ecstasy.”
+A stir as if by mutual agreement.
+It was a cheer that had escaped them involuntarily.
+Everyone's gaze was fixed on a single point.
+Especially the bastard who rolled the pepper.
+Without a hint of hesitation, he leaned over.
+Lowering his line of sight to get a better view.
+Drop the pepper shaker too
+Stare along with him
+Thud, roll.
+$Hikomaro
+“Excuse me~, Maro has also... dropped the pepper on the floor...”
+$Aniki
+“...Hey.”
+$Hikomaro
+“The brother need not pick it up.”
+$Aniki
+“Pick it up yourself.”
+$Hikomaro
+“Are those the words one uses for a customer?”
+$Aniki
+“The hell are you saying after dropping it on purpose?”
+$Hikomaro
+“*Gasp*.”
+$Aniki
+“I hit the nail on the head, didn't I, old man?”
+$Hikomaro
+“...”
+$Hikomaro
+“...Maro has failed, it seems.”
+$Aniki
+“...Hey.”
+$Hikomaro
+“The brother need not pick it up.”
+$Aniki
+“Keep repeating the same thing, why don't you.”
+$Hikomaro
+“The container is round, so it was difficult to hold.”
+$Aniki
+“What, are your fingerprints wearing thin or something?”
+$Hikomaro
+“Pray, do not say such rude things.”
+$Aniki
+“Just pick it up yourself, idiot.”
+$Hikomaro
+“...”
+$Hikomaro
+“...To be called an idiot despite being a customer, Maro thinks.”
+$Hikomaro
+“Staaaare...”
+Sexy.
+Lust is about to surpass Maro's appetite.
+Furthermore, lust is about to surpass Maro's appetite.
+A pure white thin cloth wrapped in stockings.
+The fleshy mons pubis bulges plumply.
+Maro instinctively wants to nuzzle Maro's cheek against it.
+It must surely be warm.
+Just as warm as Yukina-chan's kindness.
+$Aniki
+“...Hey.”
+$Hikomaro
+“Huff... huff... W-What is it?”
+$Aniki
+“Where do you think you're looking?”
+$Hikomaro
+“Where Maro looks is Maro's own business.”
+$Aniki
+“...This isn't for your sake, you know.”
+The last comment was a whisper only Maro could hear.
+$Aniki
+“Don't go gawking at my sister.”
+$Hikomaro
+“Is Maro not a customer as well?”
+$Aniki
+“You're tainting her.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Truly, a most meddlesome brother, Maro thinks.”
+Long, slender legs that stretched out smoothly.
+The meat on them was just right.
+The plump thighs were overflowing with allure.
+Of course, it was an allure that carried a fragrance of refined purity.
+There was no heavy richness that would cause heartburn.
+The undergarment peeking out was pure white.
+The cozy feeling it gave was exceptionally good.
+Maro was struck by it, honey.
+Maro is already in love, baby.
+It is perfection, indeed.
+Maro wants to take a photo and brag about it to Madam Sakimi.
+$Aniki
+“...Hey.”
+$Hikomaro
+“Huff... huff... W-What is it?”
+$Aniki
+“You're peering in again.”
+$Hikomaro
+“That is a false accusation.”
+$Aniki
+“Inflating your nostrils in the middle of the day like that.”
+$Hikomaro
+“Hnh, it is because your sister is wearing such a short skirt...”
+$Aniki
+“You're the one at fault for looking.”
+$Hikomaro
+“Then please say that to the other customers as well.”
+$Aniki
+“I don't take orders from you. Just hurry up and eat, then get the hell out.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Maro has a premonition that this will not end well.”
+$Hikomaro
+“Thank you for the meal.”
+$Yukina
+“Ah, thank you very much.”
+$Hikomaro
+“Today it was salt ramen and a half-order of fried rice, so...”
+$Yukina
+“That will be 900 yen in total.”
+$Hikomaro
+“...Indeed.”
+$Aniki
+“...”
+$Hikomaro
+“Is there something you need?”
+$Aniki
+“Why are you always the last one?”
+$Hikomaro
+“Pardon?”
+$Aniki
+“You're a slow eater.”
+$Yukina
+“B-Brother...”
+$Aniki
+“What's wrong with calling a slow person slow?”
+$Hikomaro
+“Maro is sensitive to heat, you see, ho-ho.”
+$Aniki
+“Then go eat some shaved ice.”
+$Hikomaro
+“There is no such thing in this shop.”
+$Aniki
+“Then go to another shop. The match is already decided, so there's no need to be obsessed with Daisetsutei anymore, right?”
+$Hikomaro
+“Just what is it that we are fighting over. Maro comes to this shop simply because he wishes to eat ramen.”
+$Aniki
+“...Isn't your real goal my sister?”
+$Hikomaro
+“*Gasp*.”
+$Aniki
+“You sure show it on your face immediately.”
+$Hikomaro
+“T-T-There is n-n-no s-s-such thing.”
+$Aniki
+“Don't you go getting any stupid ideas at your age. I hate old men like you, and I wouldn't even want to let you speak to her if I had my way.”
+$Hikomaro
+“...Maro is quite disliked, it seems.”
+$Aniki
+“Even if I say that, you'll probably come again, won't you.”
+$Hikomaro
+“Maro feels that way as well.”
+$Aniki
+“...What a persistent bastard, honestly.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Well then, until tomorrow.”
+Rattle, rattle, rattle...
+$Hikomaro
+“...”
+$Hikomaro
+“...Phew.”
+$Yukina
+“A-Um...”
+$Hikomaro
+“The brother will be angry with you.”
+$Yukina
+“Eh?”
+$Hikomaro
+“It seems he does not like you speaking with Maro.”
+$Yukina
+“Hnh, that doesn't matter. Sensei is an important customer, and my brother was just saying incredibly irrational things on his own.”
+$Hikomaro
+“Is this the first time Maro has seen you with an angry face?”
+$Yukina
+“Pardon?”
+$Hikomaro
+“Yukina-san’s face.”
+$Yukina
+“...”
+$Yukina
+“...Will you forgive my brother?”
+$Hikomaro
+“Forgive him or not, Maro is not angry.”
+$Yukina
+“Truly?”
+$Hikomaro
+“Therefore, Maro shall visit again tomorrow.”
+$Yukina
+“Thank you very much, Sensei.”
+$Hikomaro
+“Why is Maro being thanked?”
+$Yukina
+“Because everyone hates my brother and leaves him. Siblings, friends, they all couldn't take it anymore.”
+$Hikomaro
+“...Judging by his behavior, that is quite possible.”
+$Yukina
+“The only one we have a relationship with is one uncle on my father's side. When we were building this shop, he lent us money and was the only one who was kind enough to cooperate with my brother...”
+$Hikomaro
+“Maro is sure he means no real harm.”
+$Yukina
+“...Eh?”
+$Hikomaro
+“The brother means no harm.”
+$Yukina
+“Ah...”
+$Hikomaro
+“Please do not make such a sad face.”
+$Yukina
+“I-I'm happy.”
+$Hikomaro
+“Pardon?”
+$Yukina
+“Because... because you understood my brother.”
+$Hikomaro
+“He is a quite clumsy person, indeed.”
+$Yukina
+“...I think so too.”
+$Hikomaro
+“But he is not a bad person.”
+$Yukina
+“Hnh, he really is like that.”
+$Hikomaro
+“Therefore, there are those who will be on his side.”
+$Yukina
+“He has many kind parts to him, even if he looks like that.”
+$Hikomaro
+“Maro seees.”
+$Yukina
+“He really wants to get along with everyone, but he's afraid of being betrayed later, so he shuts himself away first.”
+$Hikomaro
+“Maro can understand that somehow.”
+$Yukina
+“...I'm glad I talked to you after all, Sensei.”
+$Aniki
+“Hey!”
+$Yukina
+“Ah...”
+$Aniki
+“How long are you going to stand there talking?!”
+$Yukina
+“I'm sorry for holding you back, Sensei.”
+$Hikomaro
+“Maro is idle, so it is quite alright.”
+$Yukina
+“Well then, until tomorrow... I'll be waiting.”
+Rattle, rattle, rattle...
+$Hikomaro
+“...”
+$Hikomaro
+“...What a brother-loving sister, indeed.”

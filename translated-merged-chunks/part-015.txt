@@ -1,0 +1,683 @@
+--------------------
+stage21
+********************
+...And the following day...
+$Hikomaro
+“...”
+$Hikomaro
+“...Maro wonders what he should eat today.”
+Rattle, rattle, rattle...
+$Hikomaro
+“...Good afternoon.”
+$Yukina
+“W-Welcome!”
+$Hikomaro
+“It is quite crowded, indeed.”
+$Yukina
+“Is it alright if you share a table today?”
+$Hikomaro
+“Of course, Maro is fine anywhere.”
+$Yukina
+“Your order...?”
+$Hikomaro
+“Let's see...”
+$Passerby F
+“Hey, miss! Is the gyoza ready yet?”
+$Yukina
+“P-Please wait just a little longer.”
+$Passerby F
+“I'm gonna finish my ramen before it even gets here!”
+$Yukina
+“Hnh, I'll bring it right away!”
+$Hikomaro
+“...You have it rough, indeed.”
+$Yukina
+“Compared to when it was empty...”
+$Hikomaro
+“Are you happy now?”
+$Yukina
+“Yes.”
+$Hikomaro
+“Maro sees.”
+$Yukina
+“...Your order?”
+$Hikomaro
+“Today, Maro shall have the Happosai and a half-order of ramen.”
+$Yukina
+“One Happosai and a half-order of ramen, coming up!”
+$Aniki
+“...Gyoza's up.”
+$Yukina
+“Ah... Y-Yes!”
+$Hikomaro
+“...”
+The sound of slurping noodles echoed from every direction.
+The relaxed atmosphere from when it was empty was gone.
+The frantic heat of the crowd was no joke.
+And the driving force behind it was the gaze of the male customers.
+Like they were tracking a tennis ball.
+Their heads were snapping back and forth, following her every move.
+Naturally, she was the target.
+She likely felt those piercing stares.
+But she had resigned herself to it as part of the job and tried to ignore them.
+$Passerby A
+“Miss, some water.”
+$Yukina
+“Hnh, I'll bring it right away.”
+$Hikomaro
+“...”
+$Hikomaro
+“...That bastard again, Maro thinks.”
+A regular just like Maro.
+Always hunkered down in the same spot.
+Waiting like a predator for her to approach.
+A man not to be underestimated, Customer A.
+$Yukina
+“Hnh, sorry to keep you waiting.”
+$Passerby A
+“Thanks a bunch.”
+$Passerby B
+“*Gulp*, *gulp*.”
+$Passerby C
+“H-Heh... I saw them today too...”
+$Passerby D
+“Whoa... whoa...!”
+$Passerby E
+“I-Is this the 'thing' everyone's talking about?”
+$Passerby F
+“Hnh, I can definitely use this for tonight's session.”
+$Passerby A
+“Ah, oopsie-daisy!”
+$Yukina
+“...Eh?”
+Likely to prolong the time he could catch a glimpse.
+Customer A theatrically wobbled his glass.
+Creating a small puddle on the table.
+$Passerby A
+“Sorry, but could you wipe this up?”
+$Yukina
+“Y-Yes... right away.”
+$Passerby G
+“Can I get some water over here first?”
+Interrupting them was a new face, Customer G.
+A stout man in his fifties.
+Whose glasses were fogged white from the steam.
+$Passerby G
+“Water, I said. Water.”
+$Yukina
+“Please wait just a moment.”
+$Passerby A
+“Why don't you wipe your foggy lenses first, old man?”
+$Passerby G
+“...”
+Customer A intended for it to be unheard.
+But Customer G's hearing was sharp for his age.
+He made no effort to hide his displeasure.
+$Hikomaro
+“...It is absolute chaos, Maro thinks.”
+Order water yourself
+Stare along with him
+$Passerby C
+“Could you move a little to the right?”
+$Hikomaro
+“Pardon?”
+Just as Maro was about to call out to Yukina-chan.
+Just as Maro leaned forward to get a good look.
+Customer C, sitting next to him, suddenly crowded his space.
+His gaze was fixed straight on her.
+He assumed from the start that he wouldn't be refused.
+$Hikomaro
+“Why is there a need for Maro to move?”
+$Passerby C
+“Because it looks easier to see from that side.”
+$Hikomaro
+“Please stay quietly in your own seat.”
+$Passerby C
+“I can only see one breast from here. I want to see the cleavage—that deep cleavage only big tits can have.”
+$Hikomaro
+“Maro has not the slightest intention of yielding, ho-ho.”
+$Passerby C
+“...What was that?”
+$Passerby B
+“Miss, *gulp*, *gulp*.”
+$Yukina
+“Y-Yes?”
+$Passerby B
+“I dropped the pepper shaker again.”
+$Yukina
+“A-Again?”
+$Passerby B
+“Sorry, but could you pick it up for me? I'm busy eating and my hands are full... *gulp*, *gulp*.”
+$Yukina
+“I-I understand.”
+$Passerby G
+“What's happening with my water over here?!”
+$Yukina
+“Ah... Y-Yes... Um...”
+Yukina-chan was halfway to a panic.
+The requests from customers were piling up.
+She couldn't decide which to handle first.
+$Yukina
+“I-I'll get the pepper first.”
+$Passerby G
+“Oh...!”
+$Passerby A
+“...Nice.”
+$Passerby C
+“Oohhh...!”
+$Passerby D
+“Hyah-hah!”
+$Passerby E
+“...I've got a boner...!”
+$Passerby F
+“Hnh, this settles tonight's jerk-off material.”
+$Passerby B
+“*Gulp*, *gulp*... *gulp*...!”
+$Passerby G
+“W-While you're down there crouching like that, could you bring me my water?”
+$Passerby A
+“What the hell are you blathering about, baldy?”
+$Passerby G
+“Did you say something?”
+$Passerby A
+“I called you baldy 'cause you're bald.”
+$Passerby G
+“Don't get cocky with me, you brat.”
+$Passerby A
+“You're the one with the big mouth for a new face.”
+$Yukina
+“Um... please... no fighting...”
+$Passerby B
+“Hurry up and pick it up... *gulp*, *gulp*.”
+$Yukina
+“I-I'm sorry.”
+$Passerby C
+“Look over here, miss!”
+$Yukina
+“O-Over here?”
+$Passerby C
+“Your arm's in the way, I can't see!”
+$Passerby D
+“If you say that, she's just gonna hide it, you moron.”
+$Passerby C
+“Shut up, idiot.”
+$Passerby F
+“H-Hey! Don't step in front of me while you're saying that...!”
+$Passerby C
+“Got a problem?”
+$Passerby F
+“Hnh, could you not block my view?!”
+$Passerby C
+“If you're done eating, just go home.”
+$Passerby F
+“You're done eating too, aren't you?!”
+$Passerby C
+“Hnh, I'm gonna order seconds now.”
+$Passerby E
+“That's why you're fat, tubby.”
+$Passerby C
+“I-I wasn't talking to you!”
+The prickly atmosphere was contagious.
+Everyone's actions became increasingly brazen.
+The fact that this was a ramen shop was forgotten.
+$Passerby B
+“Can't everyone just get along? *Gulp*.”
+$Passerby E
+“Hnh, move that table ten centimeters to the left...”
+$Passerby C
+“Rejected. The table leg would be right in the middle of my crotch.”
+$Passerby E
+“Hnh, it'd be fine if you just moved over a bit.”
+$Passerby C
+“The white-faced guy next to me won't budge even an inch.”
+$Hikomaro
+“Phew...”
+$Passerby F
+“A little more to the right... a little more...”
+$Passerby G
+“Is there not a single person who's completely satisfied? This is exactly why the youth of today...”
+$Passerby A
+“It's not that, the view is just too subtle. It's too half-assed to be considered a proper service.”
+$Passerby B
+“I agree with that opinion, *gulp*.”
+$Passerby A
+“See?”
+$Passerby B
+“It'd be better if she picked up the pepper like this. Since we've been coming here so often, I think we have the right to this, *gulp*.”
+$Yukina
+“...Eh?”
+Fingers like caterpillars reached for her knee.
+The moment they touched her, her body froze.
+She could only blink in shock.
+$Passerby B
+“Like this, see? Like this.”
+Spreeeead.
+$Yukina
+“!?”
+$Passerby B
+“Service, service... *gulp, gulp*!”
+$Passerby A
+“Nice.”
+$Passerby C
+“Ooooohhh!”
+$Passerby D
+“Hyah-ah! The best!”
+$Passerby E
+“I-I'm gonna blow! I'm gonna blow!”
+$Passerby F
+“Hnh, can I just jerk off here?”
+$Passerby G
+“S-Show me more... Show me everything inside...!”
+$Hikomaro
+“...”
+$Hikomaro
+“...Snap.”
+Before he knew it, Maro was airborne.
+Aiming the heel of his worn-out shoe at the piece of shit.
+$Hikomaro
+“Uhyoooooooo! KEMARI KIIIIIIIIICK!!”
+THUD!!
+$Passerby B
+“Hidebubbesh?!”
+$Hikomaro
+“H-How offensive, Maro thinks!”
+Thud, crack!
+$Passerby B
+“Guh?!”
+$Yukina
+“S-Sensei?!”
+$Passerby A
+“W-What's with this white-faced guy?!”
+$Hikomaro
+“KEMARI KIIIIIIIIICK!!”
+Whiff.
+$Hikomaro
+“O-Oh?”
+Flop.
+$Passerby B
+“Y-You bastard! *Gulp, gulp*!”
+Whack.
+$Hikomaro
+“Fugyah!”
+$Passerby B
+“Hnh, you've got guts trying to jump-kick me!”
+Crunch!
+$Passerby A
+“Gueh!”
+$Passerby B
+“Ah...”
+The elbow he drew back to punch hit Customer A's jaw.
+Customer A stumbled back and stepped on Customer G's foot.
+Customer G, screaming in pain, shoved Customer A in the back.
+$Passerby A
+“W-What the hell do you think you're doing?!”
+$Passerby B
+“N-No, it wasn't on purpose, *gulp*.”
+$Passerby A
+“Not you! The old man behind me!”
+$Passerby G
+“What do you mean, you're the one who stepped on my foot?!”
+$Passerby A
+“Shut up, old man!”
+Customer A lunged at Customer G.
+The momentum sent the table flipping over.
+The bowl sitting on it slammed into Customer C's shin.
+$Passerby C
+“Hot-hot-hot-hot!”
+Naturally, it was full of hot ramen soup.
+Howling in pain and heat, Customer C hopped around.
+Losing his balance, he leaned into Customer D.
+$Passerby D
+“...Eh.”
+Customer D quickly dodged to avoid the disaster.
+Customer C fell straight onto the floor.
+He glared at the dodging Customer D with a demonic face.
+$Passerby C
+“Who the hell... just dodges?!”
+$Passerby D
+“Y-You're supposed to dodge, right?!”
+$Passerby C
+“No, you aren't!”
+Whack!
+$Passerby D
+“Gueh!”
+All of this, from start to finish, happened in about 30 seconds.
+After that, the scuffle showed no signs of stopping.
+It devolved into something very close to a full-blown riot.
+$Aniki
+“A-Are you trying to destroy my shop?!”
+The brother was desperate to salvage the dishes.
+Yukina tried to pull Customer B off Maro as he straddled and punched him.
+But whatever they did was a drop in the bucket.
+Until the sound of sirens was heard, no one could regain their senses...
+$Aniki
+“...Hey.”
+$Hikomaro
+“Yes.”
+$Aniki
+“A total of three broken ramen bowls.”
+$Hikomaro
+“Phew...”
+$Aniki
+“Two plates and five glasses.”
+$Hikomaro
+“Ho-ho...”
+$Aniki
+“One table flipped and scratched. The cost of cleaning up the shards on the floor and all that... priceless.”
+$Hikomaro
+“Ho-ho-ho...”
+$Aniki
+“It's not a laughing matter.”
+$Hikomaro
+“Maro is aware.”
+$Aniki
+“You're the one who started the fight.”
+$Hikomaro
+“Maro could not simply leave your sister alone.”
+$Aniki
+“My Yukina is great with customers. She would've handled it just fine even if you'd left her alone.”
+$Yukina
+“...B-Brother.”
+She was sitting a short distance away.
+She lifted her hanging head.
+Unable to bear it, she came over to her brother's side.
+$Yukina
+“Hnh, there was no way I could've 'handled' that.”
+$Aniki
+“Don't be so modest.”
+$Yukina
+“I was so shocked, I... I couldn't do anything.”
+$Aniki
+“...Hmph.”
+$Yukina
+“If Sensei hadn't helped me, I...”
+$Aniki
+“They were just looking at your panties, right? Big deal.”
+$Yukina
+“J-Just... big deal?”
+$Hikomaro
+“Maro thinks that is no way to speak.”
+$Aniki
+“If showing some panties brings in customers, then show 'em as much as you want.”
+$Yukina
+“Hnh, that's horrible... how could you...”
+$Hikomaro
+“You were certainly scolded by the officers who rushed here after hearing the commotion. Once they found out what caused the fight.”
+$Aniki
+“Thanks to that, we can't do it anymore. The idea I worked so hard on is dead after only four days.”
+$Hikomaro
+“You should just do something else to make the shop thrive.”
+$Aniki
+“Don't make it sound so easy.”
+$Hikomaro
+“Maro does not think it is easy.”
+$Aniki
+“It's all someone else's problem to you, anyway.”
+$Hikomaro
+“...True, indeed.”
+$Aniki
+“See? Look at him.”
+$Yukina
+“Hnh...”
+$Aniki
+“This old man is just that kind of guy.”
+$Yukina
+“He's not wrong. We're the ones who have to do something about it, after all.”
+$Aniki
+“...Then what are we supposed to do?”
+$Yukina
+“T-That's why... we have to think about it together...”
+$Aniki
+“If we can't lure customers with your sex appeal, we're just gonna go back to being that empty shop from before.”
+$Yukina
+“...We have the flavor you created, brother.”
+$Aniki
+“That's cancelled out by my grumpy face. The customers won't acknowledge it as much as you do.”
+$Yukina
+“...”
+$Aniki
+“There's no flavor that can beat your sex appeal.”
+$Yukina
+“T-That's...”
+$Aniki
+“If there's another way, then tell me.”
+$Yukina
+“...”
+$Aniki
+“If we're thinking together, then the next idea is your turn, right?”
+$Yukina
+“...”
+$Aniki
+“All talk and no plan, huh?”
+$Yukina
+“...I think we should start doing deliveries.”
+$Aniki
+“Deliveries?”
+$Yukina
+“There've been requests for it before. Like the old ladies in the neighborhood, their legs are bad so they can't make it out, but they love the food here.”
+$Aniki
+“...”
+$Hikomaro
+“That is a fine idea. This is a residential area, after all.”
+$Aniki
+“...And who's gonna do those deliveries?”
+$Yukina
+“W-Well...”
+$Aniki
+“Who's gonna take care of the customers while you're out on a delivery?”
+$Yukina
+“...”
+$Hikomaro
+“You are not a child, despite your age.”
+$Aniki
+“...Huh?”
+$Hikomaro
+“How about you yield a little?”
+$Aniki
+“Yield how?!”
+$Hikomaro
+“You make your sister do such things, yet you hate the idea of being alone in the shop. With such an attitude, not a single constructive conversation can be had.”
+$Aniki
+“If you hadn't started that fight, things would've kept going just fine.”
+$Hikomaro
+“It simply would have continued to escalate.”
+$Aniki
+“If there was a customer who went too far, I'd stop them.”
+$Hikomaro
+“To Maro, it looked as if you were simply leaving her be.”
+$Aniki
+“To me, it wasn't 'too far' yet.”
+$Hikomaro
+“Then from what point does it become 'too far', Maro wonders?”
+$Aniki
+“I'll judge that when it happens.”
+$Hikomaro
+“You are the textbook example of someone who only cares about themselves.”
+$Aniki
+“...What did you say?!”
+$Hikomaro
+“You cannot protect your sister, yet you protect your own 'policy', Maro sees.”
+$Aniki
+“S-Shut up!”
+$Hikomaro
+“Did Maro strike a nerve?”
+$Aniki
+“A-Anyway, I just hate dealing with customers!”
+$Hikomaro
+“Then you should simply hire a part-timer.”
+$Aniki
+“Hnh, where do we have the money for—”
+Ah...
+$Yukina
+“...Is something wrong?”
+$Aniki
+“There's one right here.”
+$Hikomaro
+“Isn't that wonderful.”
+$Aniki
+“It's you.”
+$Hikomaro
+“Pardon?”
+$Aniki
+“You're gonna work here.”
+$Yukina
+“...Eh?”
+$Hikomaro
+“Please, stop joking.”
+$Aniki
+“You're working for free until those bowls are paid off.”
+$Yukina
+“B-Brother.”
+$Aniki
+“After that, it's 350 yen an hour.”
+$Hikomaro
+“T-Three hundred and fifty yen?!”
+$Aniki
+“Surprised by how high it is, aren't you?”
+$Hikomaro
+“That is a violation of the Labor Standards Act!”
+$Aniki
+“Then I'll sweeten the deal a bit.”
+$Hikomaro
+“Maro has a profession as a doctor, yes.”
+$Aniki
+“Come to think of it, you disappeared when the cops showed up, didn't you?”
+$Hikomaro
+“*Gasp*.”
+$Aniki
+“Where were you?”
+$Hikomaro
+“M-M-Maro was just in the restroom for a moment.”
+$Aniki
+“So you were hiding for some reason, then.”
+$Hikomaro
+“T-T-There is n-n-no s-s-such thing!”
+$Aniki
+“You're the type who can't lie, aren't you?”
+$Hikomaro
+“Maro is a master liar, despite how he looks!”
+$Aniki
+“...You're gonna help out, right?”
+$Hikomaro
+“Ugh...”
+$Aniki
+“You're gonna help, aren't you?!”
+$Hikomaro
+“W-What should Maro do...”
+$Aniki
+“...I won't go to the local police box, I'll go straight to the Nakano precinct.”
+$Hikomaro
+“Hnh, Maro has no idea of the difference...”
+$Aniki
+“It's much faster to talk at the precinct. Whether it's the crime prevention department or whatever, I don't really know.”
+$Hikomaro
+“C-Come to think of it, the clinic was going to be quite idle for a while...”
+$Aniki
+“...Right?”
+$Hikomaro
+“Y-Yes.”
+$Aniki
+“Now it's not someone else's problem to you anymore.”
+$Hikomaro
+“M-Maro is going home now.”
+$Aniki
+“Well then, see you at 11 AM tomorrow. If you don't show up, I'll tell the cops everything about you, including where you are and what you do.”
+$Yukina
+“Brother, that's enough...”
+$Hikomaro
+“Hnh, Maro shall take his leave!”
+Rattle, rattle, rattle...
+$Hikomaro
+“...”
+$Hikomaro
+“...Maro has gotten himself into quite a mess, indeed.”
+$Yukina
+“I-I'm so sorry.”
+$Hikomaro
+“It is quite alright... *Sigh*.”
+$Yukina
+“Hnh, I'm truly sorry I couldn't do anything.”
+$Hikomaro
+“Yukina-san has nothing to apologize for.”
+$Yukina
+“I'll try to persuade him later.”
+$Hikomaro
+“...Persuade?”
+$Yukina
+“I'll persuade him to act like it never happened. To be honest, I'm scared, but it's just too rude to have you working as a part-timer, Sensei.”
+$Hikomaro
+“...”
+$Hikomaro
+“...But the delivery idea was a good one, was it not?”
+$Yukina
+“...Eh?”
+$Hikomaro
+“With delivery, one phone call brings delicious ramen to one's home...”
+$Yukina
+“Hnh, that's true, but still.”
+$Hikomaro
+“Though 350 yen an hour is a bit much, Maro thinks.”
+$Yukina
+“...”
+$Yukina
+“...Will you really help us?”
+$Hikomaro
+“Do you have any other leads for a part-timer?”
+$Yukina
+“N-No.”
+$Hikomaro
+“Then Maro shall serve as a temporary staff member. If deliveries go well and the shop makes a profit, you will be able to hire a proper part-timer.”
+$Yukina
+“But...”
+$Hikomaro
+“Maro shall help out until then.”
+$Yukina
+“A-Are you... truly okay with that?”
+$Hikomaro
+“Yes.”
+$Yukina
+“Hnh, I can work with you starting tomorrow, Sensei?”
+$Hikomaro
+“That is how it will be.”
+$Yukina
+“B-But, still...”
+$Hikomaro
+“Maro suddenly felt the urge to do so.”
+$Yukina
+“...”
+$Hikomaro
+“Maro may be just an old man, but please, make use of him.”
+$Yukina
+“Why would you go that far...?”
+$Hikomaro
+“Maro simply wants you to keep smiling.”
+$Yukina
+“Eh?”
+$Hikomaro
+“For Yukina-san to give Maro a bright smile.”
+$Yukina
+“M-Me?”
+$Hikomaro
+“May Maro ask that of you?”
+$Yukina
+“A... a bright smile.”
+$Hikomaro
+“Just being able to see that smile makes it worth participating.”
+$Yukina
+“...”
+$Hikomaro
+“Well then, Maro shall see you tomorrow at 11 AM.”
+$Yukina
+“T-Thank you so much. I'll work harder than ever to repay your kindness, Sensei.”
+With flushed cheeks.
+She gave a deep bow.
+Her long hair fluttered in the air.
+She looked genuinely happy as she returned to the shop.
+$Hikomaro
+“...”
+$Hikomaro
+“...Phew.”
+$Hikomaro
+“...”
+$Hikomaro
+“Showing such a gallant face must be the weakness of being in love... *Sigh*.”

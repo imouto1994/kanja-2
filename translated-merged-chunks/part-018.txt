@@ -1,0 +1,645 @@
+--------------------
+stage24
+********************
+...And at 9:00 PM...
+Ding-dong.
+$Hikomaro
+“...”
+$Sakimi
+“Coming~.”
+$Sakimi
+“Welcome, Sensei.”
+$Hikomaro
+“Maro is in your care, indeed.”
+$Husband
+“W-Welcome.”
+$Hikomaro
+“Good evening.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Why the suit?”
+$Husband
+“Hnh, there are various circumstances.”
+$Hikomaro
+“What kind of circumstances might those be?”
+$Husband
+“Like I said, various.”
+$Hikomaro
+“...Various.”
+$Husband
+“Please make yourself at home and relax. I’m in charge of the cooking today, so I won’t be able to entertain you much.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Pardon?”
+The husband leaves it at that.
+He puts back on the apron he had briefly removed.
+$Sakimi
+“Hnh, it’s Ma-kun’s home cooking today.”
+$Hikomaro
+“So it seems, indeed.”
+$Sakimi
+“He said he wanted me to keep you company the whole time, Sensei.”
+$Hikomaro
+“Standing in the kitchen in a suit makes him look quite out of place.”
+$Sakimi
+“Hnh, you thought so too, Sensei?”
+$Hikomaro
+“He did say there were circumstances, after all.”
+$Sakimi
+“Actually... um...”
+Madam looks quite hesitant to speak.
+Confirming that her husband’s back is turned.
+She began to speak in a hushed whisper.
+$Sakimi
+“It looks like he’s going out because of work.”
+$Hikomaro
+“P-Pardon?”
+$Sakimi
+“He said he’ll be right back, so I shouldn't let you leave, Sensei.”
+$Hikomaro
+“What on earth is that about?”
+$Sakimi
+“I’m truly sorry. Normally, the one who invited you should be here...”
+$Husband
+“Sakimi~.”
+$Sakimi
+“Y-Yes.”
+$Husband
+“Where are the large plates we usually use?”
+$Sakimi
+“Hnh, open the door, middle shelf on the right.”
+$Husband
+“...Middle shelf, middle... found them...”
+$Sakimi
+“Are you okay with everything else?”
+$Husband
+“I can’t find the glass bowls either. Those pretty ones with the patterns.”
+$Sakimi
+“Those are on the top shelf, where the large plates were.”
+$Husband
+“...Top shelf, top shelf... found them...”
+$Sakimi
+“Is it almost done?”
+$Husband
+“All that’s left is the plating.”
+$Sakimi
+“Hnh, shall I do it?”
+$Husband
+“You think so?”
+Contrary to the expectation that he would refuse.
+The husband yields with startling ease.
+$Husband
+“Well then, Sensei.”
+$Hikomaro
+“Yes.”
+$Husband
+“I’ll have to excuse myself for a bit.”
+$Hikomaro
+“To where?”
+$Husband
+“It’s not worth mentioning.”
+$Hikomaro
+“...Is that so.”
+$Husband
+“Please consider this your own home and truly relax.”
+$Hikomaro
+“You certainly seem to be emphasizing that, indeed.”
+$Husband
+“I don’t mind if you use anything freely. The bath, the futon, even the tissues—consider everything here to be your own, Sensei.”
+$Hikomaro
+“Maro understands.”
+$Husband
+“Well then, Sakimi, I'll leave the rest to you.”
+$Hikomaro
+“...”
+$Hikomaro
+“...He really did leave, indeed.”
+$Sakimi
+“...Are you hungry?”
+$Hikomaro
+“Since the plan was to have dinner together, Maro is.”
+$Sakimi
+“Then, let's eat.”
+$Hikomaro
+“Yes, especially since your husband went to the trouble of making it.”
+$Sakimi
+“I’ll bring it to the table, so you sit down first, Sensei.”
+$Hikomaro
+“Shall Maro help you as well?”
+$Sakimi
+“You’re a guest, Sensei.”
+She put on the apron her husband had removed.
+She handled the preparations efficiently.
+Facing each other in the Madam’s home.
+Both felt a bit awkward in the strange atmosphere.
+Even so, they began to dig into the spread of food.
+$Sakimi
+“I’m truly sorry.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“For Ma-kun to not be here when he was the one who invited you... *Sigh*.”
+$Hikomaro
+“Please, do not worry about it.”
+$Sakimi
+“I don’t even understand it myself anymore.”
+$Hikomaro
+“Maro agrees with that sentiment, indeed.”
+*Munch, munch, munch*...
+$Hikomaro
+“...And this?”
+$Sakimi
+“Handmade yakitori.”
+$Hikomaro
+“What is sandwiched between the chicken breast...?”
+$Sakimi
+“Probably roasted garlic.”
+$Hikomaro
+“Whole cloves, indeed?”
+*Chomp*.
+$Hikomaro
+“Oh my.”
+$Sakimi
+“What's wrong?”
+$Hikomaro
+“It is delicious, indeed.”
+$Sakimi
+“...Let's see.”
+*Chomp*.
+$Sakimi
+“Ah... it really is good.”
+$Hikomaro
+“And this is grated yam, Maro suppose?”
+$Sakimi
+“Yeah.”
+*Slurp, slurp, slurp*...
+$Hikomaro
+“The light seasoning is just right, indeed.”
+$Sakimi
+“The okra garnish is kind of fancy, too.”
+$Hikomaro
+“And these are raw oysters, Maro sees.”
+*Slurp*.
+$Sakimi
+“How is it?”
+$Hikomaro
+“The subtle lemon flavor is irresistible.”
+$Sakimi
+“I didn't know Ma-kun was such a good cook.”
+$Hikomaro
+“Perhaps it is your influence, Madam.”
+$Sakimi
+“M-Me?”
+$Hikomaro
+“He likely learned by watching you, Maro is sure.”
+$Sakimi
+“...I wonder if that's it.”
+$Hikomaro
+“Because Madam is the finest of women.”
+$Sakimi
+“A-Are you drunk, by any chance?”
+$Hikomaro
+“No, not at all.”
+$Sakimi
+“You’ve been drinking quite a bit of wine, though.”
+$Hikomaro
+“White wine is the perfect match for raw oysters, indeed.”
+*Gulp, gulp, gulp*.
+$Hikomaro
+“Phew...”
+$Sakimi
+“Y-You shouldn't drink too much.”
+$Hikomaro
+“Madam is drinking as well, is she not?”
+$Sakimi
+“Hnh, I’m just... being sociable.”
+$Hikomaro
+“It is those parts of you that Maro loves, indeed.”
+*Gulp, gulp, gulp*.
+$Sakimi
+“S-Sensei.”
+$Hikomaro
+“Maro loves the Madam, indeed. Today, yesterday, and the day before, Maro loves you.”
+$Sakimi
+“Th-Thanks.”
+$Hikomaro
+“Your breasts are so very large, and your miniskirt is sexy.”
+$Sakimi
+“D-Don't go calling me sexy.”
+$Hikomaro
+“But it is the truth, after all.”
+$Sakimi
+“Hnh, actually, this skirt today was Ma-kun’s request.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“He insisted that I wear a miniskirt.”
+$Hikomaro
+“What an accomplished husband he is, indeed.”
+$Sakimi
+“...He actually wanted me not to wear a bra, too.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Staaaare.”
+$Sakimi
+“D-Don't look at me like that.”
+$Hikomaro
+“But you are wearing a bra, are you not?”
+$Sakimi
+“I turned him down on that, obviously.”
+$Hikomaro
+“One should listen to what Ma-kun says, indeed.”
+$Sakimi
+“B-But that would be weird, wouldn't it?”
+$Hikomaro
+“What would be?”
+$Sakimi
+“B-Being here like this with you, Sensei... it's already a little weird.”
+$Hikomaro
+“That... well... true, indeed.”
+$Sakimi
+“So if I were in a miniskirt with no bra?”
+$Hikomaro
+“Yes.”
+$Sakimi
+“And alone with you, Sensei?”
+$Hikomaro
+“...Come to think of it, we are alone together, indeed.”
+$Husband
+“...”
+$Hikomaro
+“Gah...”
+$Sakimi
+“M-Ma-kun?”
+$Husband
+“...I’m home.”
+$Sakimi
+“W-Welcome back.”
+$Husband
+“...”
+$Sakimi
+“Why didn't you ring the bell?”
+$Husband
+“Hnh, no, well... I forgot...”
+$Sakimi
+“You forgot...?”
+$Husband
+“The lights were on, so I ended up lost in thought.”
+$Sakimi
+“I-I don't really understand what you're saying.”
+$Husband
+“Sensei.”
+$Hikomaro
+“Yeees.”
+$Husband
+“Thank you for eating so much.”
+$Hikomaro
+“You are quite welcome, indeed.”
+$Husband
+“Hnh, I love my wife.”
+$Hikomaro
+“Maro knows, indeed.”
+$Husband
+“The depth of my love increases every single day.”
+$Hikomaro
+“Is that not a wonderful thing... *hic*.”
+$Husband
+“So please, you must stay the night today.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“M-Ma-kun?”
+$Husband
+“I’ve properly bought a toothbrush set for you, Sensei.”
+$Hikomaro
+“Maro is grateful for that, indeed.”
+$Husband
+“You seem to have drunk quite a bit, so it would be dangerous for you to go home alone.”
+$Hikomaro
+“Maro is perfectly fine, indeed.”
+$Husband
+“'If you drink, don't return; if you return, don't drink'!”
+$Hikomaro
+“That is the first time Maro has heard that, indeed.”
+$Husband
+“No, you absolutely cannot go home. You must stay.”
+$Hikomaro
+“Is that how it is, indeed?”
+$Husband
+“Please use my pajamas.”
+$Hikomaro
+“...Maro is really staying the night, indeed?”
+$Husband
+“Hnh, naturally. Sakimi, it’s okay, right?”
+$Sakimi
+“E-Eh, um...”
+$Husband
+“Right? Right? Right? Right?”
+$Sakimi
+“I-If Sensei is okay with it...”
+$Husband
+“Th-Then it’s settled. *Huff, huff*...”
+$Hikomaro
+“Why are you so excited, indeed?”
+$Husband
+“Because I’m happy. Sakimi, get the pajamas for Sensei.”
+$Sakimi
+“Ah... Y-Yes...”
+$Husband
+“Lay out the futons too. Today we’ll have two sets, not just one.”
+$Sakimi
+“U-Understood.”
+$Husband
+“Sensei, you are quite drunk, so it’s better if you don't take a bath.”
+$Hikomaro
+“You mean Maro should just go to sleep, indeed.”
+$Husband
+“N-No... that's not...”
+$Hikomaro
+“Pardon?”
+$Husband
+“Hnh, won't you talk with me later?”
+$Hikomaro
+“With whom?”
+$Husband
+“W-With me, of course.”
+$Hikomaro
+“...Maro does not mind, indeed.”
+$Husband
+“Then I’ll go take a bath. Please don't fall asleep until I come out.”
+$Hikomaro
+“...Understood, indeed.”
+$Hikomaro
+“...”
+$Sakimi
+“S-Sensei.”
+$Hikomaro
+“Yeees.”
+$Sakimi
+“The pajamas, here.”
+$Hikomaro
+“Yeees.”
+$Sakimi
+“Hnh, I’m sorry for all these unreasonable demands.”
+$Hikomaro
+“It is quite alright, indeed.”
+$Sakimi
+“What time should I wake you up tomorrow?”
+$Hikomaro
+“Maro's part-time job is at 11:00, indeed.”
+$Sakimi
+“Then, including breakfast time, I’ll wake you up around 9:30.”
+$Hikomaro
+“Yeees.”
+$Sakimi
+“I’ve laid out the futons.”
+$Hikomaro
+“Ma-kun will scold Maro if Maro sleeps first, indeed.”
+$Sakimi
+“I'll find a way to trick him. You've got work tomorrow, Sensei, so it's fine if you rest first.”
+$Husband
+“Hey~.”
+$Sakimi
+“Y-Yes.”
+$Husband
+“Let’s take a bath together today too.”
+$Sakimi
+“Eh?!”
+$Husband
+“Come on, hurry up.”
+$Sakimi
+“W-What are you saying?!”
+$Husband
+“We've always been doing it together lately, haven't we?”
+$Sakimi
+“Hnh, but we have Sensei here as a guest today.”
+$Husband
+“I can't wash myself alone.”
+$Sakimi
+“Hnh, you used to wash yourself just fine before.”
+$Husband
+“I can't right now.”
+$Sakimi
+“M-Ma-kun...”
+$Husband
+“If I don't get out soon, Sensei won't be able to sleep.”
+$Hikomaro
+“Madam~.”
+$Sakimi
+“Y-Yes.”
+$Hikomaro
+“Please, do not worry about Maro, indeed.”
+$Sakimi
+“But...”
+$Hikomaro
+“Maro will be asleep first, so Maro leaves the rest to you, indeed.”
+$Sakimi
+“Hnh, understood.”
+$Hikomaro
+“...”
+$Hikomaro
+“...*Yawn*.”
+With a towel and a change of clothes in hand.
+She flusteredly enters the dressing room.
+Left alone, Maro has nothing to do.
+He stares blankly at the ceiling for a while.
+$Hikomaro
+“Is the futon in the Japanese-style room, Maro wonders... *yawn*.”
+$Sakimi
+“W-Wait, Ma-kun!!”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“Wh-What... wait... hold on...”
+*Thud*.
+$Sakimi
+“Ah...”
+$Hikomaro
+“What is the matter, indeed?”
+$Sakimi
+“Hnh, right in the middle of undressing, suddenly...”
+$Hikomaro
+“...Suddenly?”
+$Sakimi
+“He kicked me out of the dressing room.”
+$Hikomaro
+“Oh my.”
+$Sakimi
+“He told me to bring the toothbrush he just bought over here.”
+$Hikomaro
+“So he bought one for himself as well, indeed.”
+$Sakimi
+“Hnh, I’m sorry for being in this state. I’ll go back to the dressing room immediately.”
+$Hikomaro
+“...”
+$Hikomaro
+“...What are you doing, indeed?”
+$Sakimi
+“M-Ma-kun?”
+*Rattle, rattle, rattle*.
+$Sakimi
+“Ma-kun, open up.”
+*Rattle, rattle, rattle*.
+$Sakimi
+“Hnh, that’s enough of this practical joke.”
+*Rattle, rattle, rattle*.
+$Sakimi
+“Th-This...”
+$Hikomaro
+“...”
+Madam, holding the toothbrush.
+She tried to return to the dressing room immediately.
+But it seems Ma-kun has locked the door from the inside.
+She gripped the knob with both hands.
+Jiggling it back and forth as her breasts swayed.
+$Hikomaro
+“...How exquisitely sinful, Maro thinks.”
+The dangerous swaying of those breasts.
+They looked as if they might spill out at any second.
+The soft masses of flesh bounced and jiggled.
+Trying to escape from the pure white bra that encased them.
+A glimpse of a pale pink areola.
+Illuminated by the fluorescent light.
+It reflected a glossy sheen.
+$Hikomaro
+“...Truly sinful, Maro thinks.”
+Hips like white peaches.
+Slender legs stretching out.
+Her mons pubis rose with a soft swell.
+Maro couldn't help but gulp.
+$Hikomaro
+“...*Gulp*.”
+How delightfully sinful
+Maro must endure
+$Hikomaro
+“H-How exquisitely sinful... indeed.”
+*Boing, slip, poke*.
+$Hikomaro
+“...Maro must endure, indeed.”
+Tonight’s Maro is a very good boy.
+Struggling against the worldly desires that swelled within him.
+Maro has achieved a splendid victory, indeed.
+...1 hour later...
+$Sakimi
+“...”
+$Hikomaro
+“...Um.”
+$Sakimi
+“What?”
+$Hikomaro
+“What about the talk with your husband?”
+$Sakimi
+“Hnh, it seems he's had enough.”
+$Hikomaro
+“He seemed quite depressed, indeed.”
+$Sakimi
+“Ma-kun?”
+$Hikomaro
+“Ever since he came out of the bath.”
+$Sakimi
+“...Yeah.”
+$Hikomaro
+“Did Maro do something wrong, Maro wonders?”
+$Sakimi
+“You, Sensei?”
+$Hikomaro
+“Yes.”
+$Sakimi
+“I don't think... you did anything wrong at all.”
+$Hikomaro
+“Maro cannot think of anything himself.”
+$Sakimi
+“...Maybe it's my fault.”
+$Hikomaro
+“Is that so?”
+$Sakimi
+“...Probably.”
+$Hikomaro
+“And so your husband is sleeping on the sofa?”
+$Sakimi
+“...Maybe.”
+$Hikomaro
+“Normally Maro should be the one in the living room, indeed.”
+$Sakimi
+“It’s what Ma-kun decided.”
+$Hikomaro
+“...”
+$Sakimi
+“...Can't you sleep?”
+$Hikomaro
+“It seems so, indeed.”
+$Sakimi
+“Close your eyes and count sheep.”
+$Hikomaro
+“That actually makes one more wide awake, indeed.”
+$Sakimi
+“Then, shall we play word chain?”
+$Hikomaro
+“...Pardon?”
+$Sakimi
+“...Sensei’s 'I'.”
+$Hikomaro
+“Inu (Dog).”
+$Sakimi
+“Nuigurumi (Stuffed animal).”
+$Hikomaro
+“Mimizu (Earthworm).”
+$Sakimi
+“Zukou (Arts and crafts).”
+$Hikomaro
+“Unko (Poop).”
+$Sakimi
+“Wh-What are you, a grade schooler?!”
+$Hikomaro
+“It was the only thing that came to mind, ho-ho.”
+$Sakimi
+“...Kodomo (Child).”
+$Hikomaro
+“Monorail.”
+$Sakimi
+“Roulette.”
+$Hikomaro
+“Tonakai (Reindeer).”
+$Sakimi
+“I... I... Ika (Squid).”
+$Hikomaro
+“Kazunoko (Herring roe).”
+$Sakimi
+“Korokke (Croquette).”
+$Hikomaro
+“Kendama (Cup-and-ball toy).”
+$Sakimi
+“...”
+$Sakimi
+“...Ma-kun.”
+$Hikomaro
+“...”
+$Sakimi
+“I... lose.”
+$Hikomaro
+“Indeed.”
+$Sakimi
+“What’s the penalty?”
+$Hikomaro
+“How about a blowjob, indeed?”
+$Sakimi
+“Okay.”
+$Hikomaro
+“Maro was only joking, indeed.”
+$Sakimi
+“...I knew that.”
+$Hikomaro
+“For Maro has cast aside worldly desires tonight.”
+$Sakimi
+“I see.”
+$Hikomaro
+“Good night, Madam.”
+$Sakimi
+“...Good night, Sensei.”
+$Hikomaro
+“Tomorrow will surely be a wonderful day, indeed.”
+$Sakimi
+“Yeah...”

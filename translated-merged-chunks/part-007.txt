@@ -1,0 +1,766 @@
+--------------------
+stage15
+********************
+...And then, two days later, in the morning...
+Tap, tap...
+$Hikomaro
+“...”
+$Hikomaro
+“...Yes.”
+$Sakimi
+“Good morning.”
+$Hikomaro
+“Good morning to you. The window... it is already open-desuu.”
+Rattle, rattle, rattle.
+$Sakimi
+“Heave... ho.”
+$Hikomaro
+“...”
+$Sakimi
+“...Why are you sitting in seiza?”
+$Hikomaro
+“I have many things weighing on my mind.”
+$Sakimi
+“You haven't even laid out your futon.”
+$Hikomaro
+“While the Madam is braving a scene of carnage, I cannot simply sleep idly upon a futon.”
+$Sakimi
+“M-My, how stoic of you.”
+$Hikomaro
+“It is only natural. So, how did it goooo?”
+$Sakimi
+“You mean me talking to Ma-kun?”
+$Hikomaro
+“But of course-desuuu.”
+$Sakimi
+“I came here this morning to report on that.”
+$Hikomaro
+“...*Gulp*.”
+$Sakimi
+“To give you the conclusion first, it doesn't look like we're getting a divorce.”
+$Hikomaro
+“R-Reallyyyy?”
+$Sakimi
+“Yeah.”
+$Hikomaro
+“Did your husband forgive you, perhaps?”
+$Sakimi
+“Hmm, well...”
+$Hikomaro
+“Or perhaps you decided to wait a while and see how things go...?”
+$Sakimi
+“Let's see...”
+$Hikomaro
+“Don't tell me you haven't... spoken to him yet?”
+$Sakimi
+“To be precise, I tried to talk to him.”
+$Hikomaro
+“Huh?”
+$Sakimi
+“I made an opening with a properly serious expression, and Ma-kun said he'd listen after he took a bath. After he came out, we sat side-by-side on the sofa.”
+$Hikomaro
+“...And then?”
+$Sakimi
+“And then, the moment I started to speak, he muffled my mouth.”
+$Hikomaro
+“So he tried to kill you! I knew it would have been better if I were present-desuuu!”
+$Sakimi
+“No, he muffled it... with a kiss.”
+$Hikomaro
+“A-A kiss?”
+$Sakimi
+“He held me tight while kissing me. After that, Ma-kun said he loved me about ten times.”
+$Hikomaro
+“What on earth is that about?”
+$Sakimi
+“And finally, he gazed steadily at me, smiled gently, and said... ‘Let's grow up a bit more, Sakimi.’”
+$Hikomaro
+“...”
+$Sakimi
+“‘We can be much happier than we've ever been before,’ he said.”
+$Hikomaro
+“...And you, Madam?”
+$Sakimi
+“I nodded without thinking.”
+$Hikomaro
+“Isn't that the same as not saying anything at all...?”
+$Sakimi
+“I—I didn't think so at the time. It felt like he knew everything before I even spoke, and on top of that, Ma-kun instantly guided me back to the right path...”
+$Hikomaro
+“...That doesn't sound like you at all-desuuu.”
+$Sakimi
+“The next day, I tried one more time, but he hugged me tight just like before and said... ‘I'll never, ever leave you, Sakimi.’”
+$Hikomaro
+“Were those words spoken... knowing everything?”
+$Sakimi
+“Probably.”
+$Hikomaro
+“So you're saying the divorce crisis has been averted?”
+$Sakimi
+“At the very least, Ma-kun doesn't seem to have any intention of doing so.”
+$Hikomaro
+“...And you, Madam?”
+$Sakimi
+“I wouldn't do something that Ma-kun doesn't want me to, would I?”
+$Hikomaro
+“Ugh...”
+$Sakimi
+“Eh?”
+$Hikomaro
+“Ugh... uugh... h-hnn... *Sniffle*...”
+$Sakimi
+“S-Sensei?”
+$Hikomaro
+“*Hic*... *Snerk*... *Sniff*... Uuugh... Hiii...”
+$Sakimi
+“I didn't know you were worrying about me that much.”
+$Hikomaro
+“That is not it-desuuuu.”
+$Sakimi
+“What do you mean, ‘that is not it’?”
+$Hikomaro
+“Since I thought it was absolutely hopeless, I was already fully prepared... to remarry you, Madam!”
+$Sakimi
+“Huh?”
+$Hikomaro
+“And yet, you're back together... it is just too cruel-desuuuu! I was imagining a sweet newlywed life with you, and I was so excited I couldn't sleep all night...”
+$Sakimi
+“Hey.”
+$Hikomaro
+“Gueh...”
+$Sakimi
+“That's not what you were saying at first.”
+$Hikomaro
+“W-Was it not?”
+$Sakimi
+“So this is your true feeling.”
+$Hikomaro
+“If it offends you, I shall revert to the original version-desuuu.”
+$Sakimi
+“...It's already too late.”
+Twist.
+$Hikomaro
+“Owowowow!”
+$Sakimi
+“Was that ‘night visit’ also just a means to get me divorced?!”
+$Hikomaro
+“N-No, it was not-desuuu!”
+$Sakimi
+“...Now that it's come to this, I'm staying with him out of pure spite!”
+Twist, twist.
+$Hikomaro
+“Ade-de-de-de-deh!”
+$Sakimi
+“Besides, just because Ma-kun might have thrown me away doesn't mean I'd just skip off and marry another man! I'd go back to the countryside and live alone until I died!”
+$Hikomaro
+“T-That would be such a waste!”
+$Sakimi
+“That is the punishment for a woman who couldn't stay true to her marriage.”
+Twi-i-i-ist.
+$Hikomaro
+“Hiiiieeeen!”
+$Sakimi
+“Do you understand?”
+$Hikomaro
+“I—I understand-desuuuu!”
+$Sakimi
+“...Good.”
+$Hikomaro
+“Kh... Haa...”
+$Sakimi
+“You really are a pathetic old man.”
+$Hikomaro
+“I—I was just sharing a little dream-desuuuu.”
+$Sakimi
+“Sensei, don't you have that black-haired woman? Who was the one who said they'd date her properly and make it all the way to marriage?”
+$Hikomaro
+“T-That was the story before you chased her away, Madam!”
+$Sakimi
+“Chased her away?”
+$Hikomaro
+“The time she ran away because you said my dick was hard! Since then, she hasn't visited this clinic even once.”
+$Sakimi
+“Oh yeah, that did happen...”
+Here.
+$Hikomaro
+“Huh?”
+$Sakimi
+“A secret memo about her.”
+$Hikomaro
+“...”
+$Sakimi
+“Her name is ‘Ishihara Yukina,’ and she's 22 years old. You knew that much, right, Sensei?”
+$Hikomaro
+“...Yes... well...”
+$Sakimi
+“She lives in Nakanomachi 2-chome. Go through the arcade, head west along the road, and on the corner of the third traffic light, there's a small ramen shop.”
+$Hikomaro
+“A—A ramen shop?”
+$Sakimi
+“It seems she's the poster girl there. She runs the shop with her older brother. Before it was a ramen shop, it was a motorcycle shop.”
+$Sakimi
+“The motorcycle shop almost went bankrupt three times. So, they changed their pace and switched to ramen about a year ago.”
+$Hikomaro
+“Why do you know so much...?”
+$Sakimi
+“Don't underestimate the information network of the working class.”
+$Hikomaro
+“Kh... My humble apologies-desuuuu.”
+$Sakimi
+“Her brother is 29, quite a bit older. Maybe because of his stubble, he looks older than he is, and he's so silent you wouldn't think he's in the service industry.”
+$Sakimi
+“So the sister handles almost all the customers. When the brother gets an order, he just mumbles a bit, so I don't even know what his voice sounds like.”
+$Sakimi
+“Also, if you order ramen, I recommend the Chashu-men. It comes with five thick slices, and the price is a reasonable 750 yen.”
+$Hikomaro
+“...Is that also from the working-class information network-desuuuu?”
+$Sakimi
+“No, I went to the shop and ate there myself.”
+$Hikomaro
+“H-Huh?”
+$Sakimi
+“I apologized properly for the other day. I explained that Sensei is a very, very good person and a doctor with reliable skills.”
+$Hikomaro
+“...”
+$Sakimi
+“She was a bit bewildered, but I think I restored her trust. Why don't you try going to the shop and pretending it was an accident, Sensei?”
+$Hikomaro
+“...Me, to the shop?”
+$Sakimi
+“There weren't many customers, so I'm sure that beautiful sister would be happy if Sensei became a regular.”
+$Hikomaro
+“...”
+$Sakimi
+“I'll cheer for your marriage hunt.”
+$Hikomaro
+“Thank... you-desuuuu...”
+$Sakimi
+“You won't move forward without some kind of opening. She's such a beautiful person, if you dilly-dally, someone else might snatch her up.”
+So said the Madam.
+She grabbed Maro's wrist forcefully.
+She pressed the memo she was holding into his palm.
+$Sakimi
+“Are you a little grateful now?”
+$Hikomaro
+“I am immensely grateful-desuuuu.”
+$Sakimi
+“Then, can I make a reservation for next Sunday?”
+$Hikomaro
+“Huh?”
+$Sakimi
+“Ma-kun asked me again. It seems he wants me to come here no matter what until I'm properly examined.”
+$Hikomaro
+“A—Are we going to repeat that chaotic situation again-desuuuu?”
+$Sakimi
+“The other day, I was the one at fault.”
+$Hikomaro
+“...In short, you will endure it next time.”
+$Sakimi
+“Even if I'm surprised, I won't run away.”
+$Hikomaro
+“I wonder if you'll be alright-desuuu.”
+$Sakimi
+“Right now, I only want to serve Ma-kun. I have to fulfill his wishes even a little, become a slightly better wife, and respond to his feelings.”
+$Hikomaro
+“...If that is the case, I shall cooperate-desuuuu.”
+$Sakimi
+“Thanks.”
+$Hikomaro
+“Is 10:00 AM alright-desuuuu?”
+$Sakimi
+“Yeah...”
+Ah!!
+$Sakimi
+“Oh crap, look at the time! I have to get to work!”
+$Hikomaro
+“...”
+$Hikomaro
+“...Safe travels.”
+As usual, her exit was the window.
+As Maro watched her leave...
+He slowly unfolded the memo he'd been handed.
+$Hikomaro
+“Ho...”
+It was filled with more writing than he'd expected.
+Including things she hadn't mentioned just now.
+All sorts of information was recorded.
+"The name of the shop is Taisetsutei"
+"Opening hours are 11:00 AM"
+"Open year-round, perhaps because business is tough"
+"Gyoza is 250 yen for 5 pieces"
+"No delivery since only two people run the place"
+"The sister's apron looks cute"
+$Hikomaro
+“Hoho...”
+The time was 9:00 AM.
+There was still time before the shop opened-de ojaru.
+When there is free time, the thing to do is...
+$Hikomaro
+“Hohoho no ho...”
+Masturbation.
+Otherwise known as self-pleasuring.
+For a healthy man, there is nothing else.
+If one hopes to reunite with a marriage hunt partner...
+It is best to thin out one's greasy sexual desires beforehand.
+The problem is the material for the session-de ojaru.
+The cardigan has been returned to the Madam.
+The partner suitable for Maro's current delusions is...
+Still the beloved Madam
+Naturally, the marriage hunt partner
+Still the beloved Madam.
+Better than a marriage hunt partner with whom ties are still thin.
+There is no one else but the woman who was by his side until just now.
+$Hikomaro
+“Hohohoho.”
+With depth-de ojaru.
+I shall stroke-de ojaru.
+$Hikomaro
+“O-Okusaaaan.”
+The image in his mind was her with her legs spread.
+What's more, he'd bury his face in her crotch.
+Even things he couldn't do in reality.
+In the world of delusion, he could do as he pleased.
+$Hikomaro
+“Madam, Madam, Madam...!”
+Scrub-scrub, stroke-stroke, scrub-scrub, stroke-stroke!
+$Hikomaro
+“Madam, Madam, Madam, Madam...!”
+Scrub-scrub, stroke-stroke, scrub-scrub, stroke-stroke!
+$Hikomaro
+“Haah, haah, Madam... I love you-de ojaru yoooo...”
+$Hikomaro
+“I want to share another night's tryst-de ojaru. Maro, Maro... will never forget your soaking kindness, nor those soft breasts... nnn...!”
+Scrub-scrub, stroke-stroke, scrub-scrub, stroke-stroke!
+$Hikomaro
+“Uhiia... haaa... nnn...”
+*Splurt!!*
+$Hikomaro
+“Hauuu... nnnnn...!”
+*Dobyuh, dobyuh, babyuh, dobyuh...!*
+The ejaculated semen.
+As expected of having held it back...
+It erupted from the tip in such volume that the tissue wrapping it went limp.
+The pleasure was exceptional.
+It was a shame about that cardigan, but...
+Maro's delusions surpassed reality, with power to spare.
+$Hikomaro
+“...Phew.”
+There was still plenty of time.
+Even after ejaculation, the hardness of his dick did not fade.
+I shall stroke it about three more times-de ojaru yooo.
+Naturally, the marriage hunt partner.
+The beloved Madam is hard to give up, but...
+Maro must advance down a new path.
+$Hikomaro
+“Hohohoho.”
+With depth-de ojaru.
+I shall stroke-de ojaru.
+$Hikomaro
+“Yukina-chaaan!”
+Surname Ishihara, name Yukina.
+He conjured her appearance when she came to the clinic.
+He concentrated all possible delusions into a single point in his chest.
+$Hikomaro
+“I—I will go to the shop later-desuuuu.”
+His feelings were completely focused.
+Approaching until the heat of her skin could be felt.
+Staring as if to see through to the other side of the knit fabric.
+$Hikomaro
+“Yu—Yukina-chaaan...”
+The poster girl of the ramen shop.
+The poster girl who looks good in an apron.
+$Hikomaro
+“Yukina-chan, Yukina-chan, Yukina-cha... nnn...!”
+Scrub-scrub, stroke-stroke, scrub-scrub, stroke-stroke!
+$Hikomaro
+“Yukina-chaaan!”
+Scrub-scrub, stroke-stroke, scrub-scrub, stroke-stroke!
+Maro loves a hard worker-de ojaru.
+Swinging those big breasts.
+Working together with her brother-de ojaru ne.
+That brave feeling is transmitted clearly...
+And his love for her increases more and more-de ojaru.
+Scrub-scrub, stroke-stroke, scrub-scrub, stroke-stroke!
+$Hikomaro
+“Kuha... nnn...”
+I saw it.
+I saw it-de ojaru yo!
+Despite being such a beauty, her life is modest.
+Surely she doesn't spend much money on clothes.
+So her underwear, surely...
+*Boing.*
+$Hikomaro
+“U... ha...”
+Something like this.
+A simple bra with no hint of decoration.
+She never once thought about flirting with men.
+But conversely, that is erotic.
+Therefore, Maro, Maro...
+$Hikomaro
+“I fall for you even more-desuuuu.”
+Scrub-scrub, stroke-stroke, scrub-scrub, stroke-stroke!
+$Hikomaro
+“Uhaa... Yukina-chan... Yukina-chan...!”
+Scrub-scrub, stroke-stroke, scrub-scrub, stroke-stroke!
+$Hikomaro
+“I want to bury my face in these breasts-de ojaru yooo.”
+Scrub-scrub, stroke-stroke, scrub-scrub, stroke-stroke!
+$Hikomaro
+“Uhiia... haaa... nnn... nnn... nnn... it's coming!”
+*Splurt!!*
+$Hikomaro
+“Hiiiin... feels so good... kuhaan...!”
+*Dobyuh, dobyuh, babyuh, dobyuh...!*
+The ejaculated semen.
+As expected of having held it back...
+It erupted from the tip in such volume that the tissue wrapping it went limp.
+The pleasure was exceptional.
+His usual delusional habit had been polished...
+It felt as if her breasts were truly right before his eyes.
+$Hikomaro
+“Haah... haah... phew...!”
+There was still plenty of time.
+Even after ejaculation, the hardness of his dick did not fade.
+I shall stroke it about three more times-de ojaru yooo.
+...And then, two hours later...
+$Hikomaro
+“U... ha... aa...”
+His steps were unsteady.
+For some reason, the sun looked yellowed.
+To put it bluntly, he'd drained himself too much.
+After that, two more times using the Madam as material.
+Followed by two more times with Yukina-chan.
+Including the first, a total of five times.
+Lusting beyond his years...
+He had filled the room with the smell of semen.
+$Hikomaro
+“I—I must replenish my energy-desuuuu.”
+I shall order the Chashu-men.
+And a large serving at that.
+I'll also order gyoza to gain strength.
+Before I go marriage hunting for Yukina-chan, I'll first restore my physical strength.
+So he had decided in his heart.
+$Hikomaro
+“Go through the arcade...”
+$Hikomaro
+“Head west along the road...”
+$Hikomaro
+“On the corner of the third traffic light...”
+$Hikomaro
+“...”
+$Hikomaro
+“...Is it here-de ojaru ka?”
+Rattle, rattle...
+$Hikomaro
+“Pardon me-desuuuu.”
+$Yukina
+“Welco...”
+Ah...
+$Hikomaro
+“Helloooo.”
+$Yukina
+“...Hell... o.”
+$Hikomaro
+“Hoho.”
+$Yukina
+“...The gynecology... doctor?”
+$Hikomaro
+“Yes, I am very sorry for that time-desuuuu.”
+$Yukina
+“Ah, no, not at all... the same to me...”
+$Hikomaro
+“Since my hunger is at its max, can I order for now-desuuuu?”
+$Yukina
+“P-Please.”
+$Hikomaro
+“A large serving of Chashu-men, gyoza with plenty of garlic... and a half-bowl of rice-desuuuu.”
+$Yukina
+“One large Chashu-men, gyoza with extra garlic, and one half-rice, coming up.”
+$Aniki
+“...”
+$Hikomaro
+“Ho...”
+The brother didn't even nod.
+He just moved his hands silently.
+He didn't even glance at Maro.
+$Hikomaro
+“Hohoho.”
+With his stubble, he had a truly stubborn-looking appearance.
+This was a man of pure unsociability-de ojaru ne.
+$Yukina
+“Um, the other day, a woman named Ayase-san came by.”
+$Hikomaro
+“Ayase-san... Ayase-san... hmm...?”
+$Yukina
+“When I visited you, she suddenly appeared behind you and said all sorts of things about you, and I was so surprised I ran home...”
+$Hikomaro
+“Ah, yes, yes.”
+Maro clapped his hands.
+He had a face as if he'd finally remembered.
+$Hikomaro
+“You mean that outrageous woman-desuuuu.”
+$Yukina
+“She said she was your friend. So she wasn't a nurse there after all.”
+$Hikomaro
+“I would not employ a woman who shouts such abuse in front of a precious patient-desuuuu.”
+$Yukina
+“But she was wearing a white coat, so I thought for sure...”
+$Hikomaro
+“She is a huge fan of cosplay-desuuu.”
+$Yukina
+“C-Cosplay?”
+$Hikomaro
+“Usually she is harmless, but occasionally she comes to play like that and plays terrible pranks-desuuuu.”
+$Yukina
+“She's a strange person, even though she's so beautiful.”
+$Hikomaro
+“Indeed. The one who always suffers damage from her heartless pranks is the kind and generous me...”
+$Yukina
+“But... when she was talking to me, she was apologizing the whole time.”
+$Hikomaro
+“Apologizing?”
+$Yukina
+“She said she was sorry for saying weird things back then. She said Sensei is a skilled doctor, and though you say jokes that aren't funny sometimes, it's nothing but fun once you get used to it.”
+$Hikomaro
+“Ayase-san is truly an honest person-desuuuu.”
+$Yukina
+“I didn't quite understand what was ‘fun’ about a doctor, but Ayase-san's feelings of trust in you were clearly conveyed, Sensei.”
+$Hikomaro
+“Then, shall we take a reservation-desuuuu?”
+$Yukina
+“Eh?”
+$Hikomaro
+“A continuation of the examination-desuuuu.”
+$Yukina
+“Ah...”
+$Hikomaro
+“Even if nothing hurts, regular checkups are necessary.”
+$Yukina
+“T-True.”
+$Hikomaro
+“Especially for women who work standing up, the lower abdomen tends to get cold. If you underestimate a simple chill...”
+$Aniki
+“*Ahem*.”
+$Yukina
+“Ah...”
+The brother's throat-clearing.
+The ordered dishes were lined up on the counter.
+At the same time, her back straightened up too.
+$Yukina
+“Sorry for talking so much.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Hoho.”
+$Yukina
+“Chashu-men, thank you for waiting.”
+$Hikomaro
+“...It looks delicious-desuuuu.”
+$Yukina
+“Also gyoza and half-rice. Soy sauce and chili oil are in the stocker, and garlic is in this small jar.”
+$Hikomaro
+“Thank you for being so thorough-desuuu.”
+$Yukina
+“Then, please take your time.”
+$Hikomaro
+“...”
+$Hikomaro
+“...*Gulp*.”
+Right now, appetite is greater than sex drive-de ojaru ne.
+$Hikomaro
+“I shall partake-desuuuu.”
+Slurp, slurp, slurp, slurp, slurp, slurp.
+$Hikomaro
+“D-Delicious...”
+Slurp, slurp, slurp, slurp, slurp, slurp.
+$Hikomaro
+“It truly is delicious-de ojaru.”
+The noodles were medium-thick.
+The soup was rich.
+The chashu was as thick as reported.
+It was more than enough to satisfy Maro's noble appetite-de ojaru.
+$Hikomaro
+“Hafuh, hafuh, mofuh.”
+The gyoza was also good.
+The rice was also good.
+The cooking was perfect...
+And it seemed they used domestic rice.
+The price was reasonable in every way.
+And yet Maro was the only customer.
+Even though it was near lunch, there was no sign of anyone visiting.
+Could business really be sustained like this?
+$Hikomaro
+“Hafuh, hafuh, hafuh...”
+Slurp, bite, slurp, bite.
+$Hikomaro
+“Hafuh, hafuh, mofuh, hafuh...”
+Mogu, bite, slurp, mogu, bite, slurp.
+Finished eating.
+His blood sugar level rose steadily.
+Healthy worldly desires welled up throughout his body.
+$Hikomaro
+“Thank you for the meal-desuuuu.”
+$Yukina
+“It was a humble meal.”
+$Hikomaro
+“It was very delicious-desuuuu. This taste could become a habit-desuuuu.”
+$Yukina
+“Thank you. Big brother, he said it was very delicious.”
+$Aniki
+“...”
+$Yukina
+“Sorry for his unsociability.”
+$Hikomaro
+“Do not worry about it-desuuu. Rather, about the bill... I have an afternoon clinic, so I must return soon.”
+$Yukina
+“That will be 1,250 yen in total.”
+$Hikomaro
+“The price is also reasonable and favorable...”
+Oh?
+$Yukina
+“Is something wrong?”
+$Hikomaro
+“No, just... the whereabouts of my wallet... e-eh?”
+$Aniki
+“...”
+$Hikomaro
+“Surely it was in my back pants pocket... Strange, how odd... *fumble, fumble, fumble, fumble*.”
+$Aniki
+“Hey.”
+$Hikomaro
+“Y-Yes.”
+$Aniki
+“Are you eating without paying?”
+$Yukina
+“B-Big brother.”
+$Aniki
+“I thought you were suspicious from the moment you came in. Your face is painted white, your eyebrows are weird, and you're wearing a white coat.”
+$Yukina
+“This person is a doctor at the clinic near the station...”
+$Aniki
+“Is this that strange doctor you were talking about before, Yukina?”
+$Yukina
+“That misunderstanding has already been cleared up.”
+$Aniki
+“Just call the police.”
+$Hikomaro
+“Eeeeeeeeeeh!?”
+$Aniki
+“We're running this place on the edge. If we let criminals like you go, a small shop like ours will go under.”
+$Hikomaro
+“I—I just forgot my wallet at home-desuuuu. It is within walking distance, I shall bring it back immediately-desuuuu.”
+$Aniki
+“As if I can trust that. Once you leave the shop, you won't come back anyway.”
+$Yukina
+“If you're worried, I'll go with him.”
+$Aniki
+“...”
+$Yukina
+“Then it'll be fine, right?”
+$Aniki
+“And who's going to handle the customers in the meantime? It's about to be lunchtime.”
+$Yukina
+“I-It'll only be for a short while...”
+$Aniki
+“Are you saying almost no customers will come even during lunch?”
+$Yukina
+“No one said that...”
+$Aniki
+“...If only the location were a bit better.”
+$Yukina
+“The taste is well-received, so it'll gradually spread through word of mouth...”
+$Aniki
+“It's been a year and a half since you started saying that.”
+$Yukina
+“...”
+$Aniki
+“Old man.”
+$Hikomaro
+“W-What is it-desuuuu?”
+$Aniki
+“Work here for the amount you owe.”
+$Hikomaro
+“H-Huh?”
+$Aniki
+“I don't trust others. I don't care if you're some important doctor, a person who doesn't pay is less than a stranger to me.”
+$Aniki
+“My back has been hurting, so this is perfect. My sister can't carry heavy beer cases, and there's a mountain of cabbage piled up by the back door.”
+$Hikomaro
+“I—I have a clinic this afternoon-desuuuu.”
+$Aniki
+“Like I care. Either be turned over to the police, or atone for your sins here. You have two choices.”
+$Hikomaro
+“T-That is...”
+$Aniki
+“I don't think taking a day off will have much effect. A clinic run by a weirdo like you probably isn't popular anyway, just like us.”
+$Yukina
+“That's going too far, no matter what...”
+$Aniki
+“You stay quiet.”
+$Yukina
+“Sensei.”
+$Hikomaro
+“Y-Yes.”
+$Yukina
+“I'll pay for you.”
+$Hikomaro
+“Eh?”
+$Aniki
+“What are you saying on your own?”
+$Yukina
+“Let's think a bit about the shop's reputation. Because big brother gets angry so easily, the fights with customers never end...”
+$Aniki
+“...What was that?”
+*Snap.*
+$Yukina
+“!!”
+$Hikomaro
+“Wait...”
+$Aniki
+“...You look like you have something to say.”
+Reprimand the brother with words
+Stop the brother with physical force
+$Hikomaro
+“Violence against women is not good-desuuuu.”
+$Aniki
+“Huh?”
+$Hikomaro
+“I—I said, violence against women is...”
+$Aniki
+“I can't hear you at all, say it louder.”
+$Hikomaro
+“Kh... I did not say anything important.”
+$Aniki
+“Then just carry the beer cases quietly. Our hourly wage is 300 yen, so you'll have to work exactly four hours.”
+$Hikomaro
+“V-Violence is wrong!”
+*Grab.*
+$Aniki
+“Why are you hugging me?”
+$Hikomaro
+“Y-You must not hit women!”
+$Aniki
+“What's wrong with disciplining my own family?”
+$Hikomaro
+“You can give a warning without using your hands-desuuuu.”
+$Aniki
+“...You fake feminist bastard.”
+*Thump.*
+$Hikomaro
+“Gefu!”
+$Yukina
+“Big brother, stop it!”
+$Aniki
+“...He collapsed with a single kick.”
+$Hikomaro
+“*Cough*... *Gasp*...”
+$Aniki
+“That was self-defense.”
+$Hikomaro
+“I—I thought you would say that-desuuuu.”
+$Aniki
+“Then just carry the beer cases quietly. Our hourly wage is 300 yen, so you'll have to work exactly four hours.”
+$Hikomaro
+“F-F-Four hours?”
+$Aniki
+“Don't you dare slack off. I'll have my sister keep an eye on you, so whip your old body into shape.”

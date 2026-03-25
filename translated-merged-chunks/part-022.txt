@@ -1,0 +1,1452 @@
+--------------------
+stage28
+********************
+…The following night…
+$Sakimi
+“Are you all fired up?”
+$Hikomaro
+“Of course I am.”
+$Sakimi
+“Did you get the bouquet?”
+$Hikomaro
+“It’s right by the front door so I wouldn't forget it.”
+$Sakimi
+“And you really did kiss her, right?”
+$Hikomaro
+“I did~.”
+$Sakimi
+“She didn't seem to hate it, did she?”
+$Hikomaro
+“Her cheeks turned red and she looked down... ho-ho.”
+$Sakimi
+“Then it’s perfect.”
+$Hikomaro
+“It is perfect.”
+$Sakimi
+“All that’s left is to stay confident and tell her how you feel.”
+$Hikomaro
+“I’ve got it all planned out.”
+$Sakimi
+“Let’s hear the words we practiced. Go on, say it.”
+$Hikomaro
+“I love you.”
+$Sakimi
+“And then?”
+$Hikomaro
+“Please go out with me with the intention of marriage.”
+$Sakimi
+“And once she nods…?”
+$Hikomaro
+“I’ll give her a light hug and wipe away her tears, right.”
+$Sakimi
+“Make sure you don't get too aggressive there.”
+$Hikomaro
+“I’ll walk her to the shop, and then I’ll make a dandy exit.”
+$Sakimi
+“How cool, Sensei.”
+$Hikomaro
+“I shall return a changed man.”
+$Sakimi
+“I already told Ma-kun I’d be late. I made a reservation at an oden shop I know, so we’re going to celebrate all night long today.”
+$Hikomaro
+“Thank you so much~.”
+$Sakimi
+“Now, get going!”
+$Hikomaro
+“Make sure to welcome me back with confetti when I return!”
+$Sakimi
+“Leave it to me.”
+$Hikomaro
+“Well then, well then… ho-ho.”
+…10:00 PM, in front of Taiseitei…
+$Hikomaro
+“…”
+$Hikomaro
+“My heart really is racing, isn't it.”
+$Hikomaro
+“…”
+$Hikomaro
+“For now, I'll just hide the bouquet behind my back.”
+*Rattle rattle rattle…*
+$Hikomaro
+“Ah…”
+$Yukina
+“G-Good evening.”
+$Hikomaro
+“Good evening~. Thank you for your hard work today.”
+$Yukina
+“Did I keep you waiting?”
+$Hikomaro
+“Not at all.”
+$Yukina
+“I was surprised when you called me.”
+$Hikomaro
+“I’m sorry for calling you out so suddenly. I just wanted to tell you the conclusion I reached as soon as possible, Yukina-san.”
+$Yukina
+“…Is this about your answer to yesterday?”
+$Hikomaro
+“Yes.”
+$Yukina
+“Ah, you came all this way just for that…?”
+$Hikomaro
+“I felt it wasn't something to be said over the phone.”
+$Yukina
+“In that case, you could have just called me to the hospital…”
+$Hikomaro
+“I felt it was a conversation worthy of coming here, yes.”
+$Yukina
+“Oh, is that so?”
+$Hikomaro
+“…By the way, where is your brother?”
+$Yukina
+“He finished cleaning up a little while ago and is in the bath now.”
+$Hikomaro
+“Then we won’t be interrupted.”
+$Yukina
+“…Interrupted?”
+$Hikomaro
+“Just talking to myself~.”
+$Yukina
+“Oh… okay.”
+$Hikomaro
+“Now then, let's get to the main point.”
+$Yukina
+“P-Please.”
+$Hikomaro
+“I love you~.”
+$Yukina
+“Huh?”
+$Hikomaro
+“I’ve fallen for you from the bottom of my heart.”
+$Yukina
+“T-To think you feel that strongly about me.”
+$Hikomaro
+“Isn't it obvious?”
+$Yukina
+“I think even my surly brother would be moved.”
+$Hikomaro
+“…”
+$Hikomaro
+“…Why would your brother be involved?”
+$Yukina
+“Eh, but you’re talking about Taiseitei, right?”
+$Hikomaro
+“No, absolutely not.”
+$Yukina
+“…It's not?”
+$Hikomaro
+“I’m talking about you.”
+$Yukina
+“Me?”
+$Hikomaro
+“I mean you, Yukina-san.”
+$Yukina
+“…”
+$Hikomaro
+“I’ve fallen for you, Yukina-san.”
+$Yukina
+“W-Wait a moment, please.”
+$Hikomaro
+“Wait for what?”
+$Yukina
+“I don't quite understand what you mean…”
+$Hikomaro
+“You don't understand?”
+$Yukina
+“Y-Yes.”
+$Hikomaro
+“Then, let me say it one more time.”
+Maro took a deep breath.
+He stared straight into Yukina-san’s eyes.
+$Hikomaro
+“I love you, Yukina-san.”
+$Yukina
+“...!”
+$Hikomaro
+“Please go out with me with the intention of marriage.”
+He held out the bouquet he was hiding behind his back.
+Maro waited for her to accept it.
+$Yukina
+“M-Marriage… you say?”
+$Hikomaro
+“Yes.”
+$Yukina
+“Between me and you, Sensei?”
+$Hikomaro
+“Yes.”
+$Yukina
+“It’s… impossible…”
+$Hikomaro
+“…”
+$Hikomaro
+“…And why is that?”
+$Yukina
+“What do you mean, why…?”
+$Hikomaro
+“Could it be that you have a boyfriend?”
+$Yukina
+“I don’t have a boyfriend.”
+$Hikomaro
+“So you don't have a lover?”
+$Yukina
+“I don't.”
+$Hikomaro
+“Then there’s no problem, is there?”
+$Yukina
+“B-But, I…”
+$Hikomaro
+“…Could it be there’s someone else you like?”
+$Yukina
+“…”
+$Yukina
+“…There is.”
+$Hikomaro
+“A-And that person… is not me?”
+$Yukina
+“…I’m sorry.”
+$Hikomaro
+“*Gaaaaasp!*”
+$Yukina
+“I-I’m truly sorry.”
+$Hikomaro
+“B-But we kissed, didn’t we?”
+$Yukina
+“…”
+$Hikomaro
+“You didn’t seem to hate it, did you?”
+$Yukina
+“Are you talking about the kiss on the cheek?”
+$Hikomaro
+“A kiss is a kiss, no matter where it is!”
+$Yukina
+“I was just so surprised at the time, I couldn't say anything.”
+$Hikomaro
+“I-Is that all?”
+$Yukina
+“…That’s all.”
+$Hikomaro
+“But your cheeks turned red.”
+$Yukina
+“I think it was just because I was startled.”
+$Hikomaro
+“…”
+$Yukina
+“…I’m sorry.”
+$Hikomaro
+“What kind of person is the one you like?”
+$Yukina
+“Even if you ask me what kind of person…”
+$Hikomaro
+“Is it a regular customer or something?”
+$Yukina
+“No, it’s not.”
+$Hikomaro
+“…So you won’t tell me.”
+$Yukina
+“…I’m sorry.”
+$Hikomaro
+“Could it be that you’re lying just to turn me down?”
+$Yukina
+“N-No, that’s not it.”
+$Hikomaro
+“I’ll work hard too. I’ll do my best to not lose to that person.”
+$Yukina
+“S-Sensei…”
+$Hikomaro
+“If I don't know what kind of guy he is, I won’t know how to try my best!”
+$Yukina
+“…”
+$Yukina
+“…I’ll tell you.”
+$Hikomaro
+“No lies now.”
+$Yukina
+“It’s my brother.”
+$Hikomaro
+“Huh?”
+$Yukina
+“The one I love… is my brother.”
+$Hikomaro
+“…”
+$Hikomaro
+“…You mean that surly brother of yours?”
+$Yukina
+“Yes.”
+$Hikomaro
+“The one who’s in the bath right now?”
+$Yukina
+“That’s right.”
+$Hikomaro
+“…”
+$Yukina
+“…It’s true.”
+$Hikomaro
+“S-So it’s a sister’s unrequited love?”
+$Yukina
+“No…”
+$Hikomaro
+“S-So the feeling is mutual?”
+$Yukina
+“We’re… married.”
+$Hikomaro
+“H-Huh?”
+$Yukina
+“We aren't actually siblings.”
+$Hikomaro
+“…”
+$Yukina
+“We haven't been blood-related from the start.”
+$Hikomaro
+“Y-You mean you’re in-laws?”
+$Yukina
+“Other than our marriage, we’re total strangers. We thought it would be better for the customers if we were unmarried, and I’ve been in the role of his sister since he ran the motorcycle shop.”
+$Hikomaro
+“…”
+$Yukina
+“…Go ahead and hit me.”
+$Hikomaro
+“…”
+$Yukina
+“…Someone like me.”
+$Hikomaro
+“I’m going home.”
+From that point on.
+Until he reached his house.
+He had almost no memory.
+Of where or how he walked.
+But when he arrived in front of the house.
+He stood still for a moment, looking up at the second floor.
+And felt relieved to see the lights were on.
+$Sakimi
+“Welcome back.”
+$Hikomaro
+“I’m home~.”
+$Sakimi
+“Congratulations!”
+$Hikomaro
+“Um…”
+$Sakimi
+“I know, the confetti, right?”
+$Hikomaro
+“That’s not it.”
+$Sakimi
+“Hmm?”
+$Hikomaro
+“Could you please turn off the light?”
+$Sakimi
+“…”
+$Sakimi
+“…You don’t seem very energetic.”
+$Hikomaro
+“Please, I’m asking you.”
+$Sakimi
+“Got it.”
+*Click.*
+$Sakimi
+“I turned it off.”
+$Hikomaro
+“Thank you.”
+$Sakimi
+“What’s wrong?”
+$Hikomaro
+“Nothing, really.”
+$Sakimi
+“Did something… happen?”
+$Hikomaro
+“No, well, it’s just… *hic*… *sob*… *wail*.”
+$Sakimi
+“H-Hey.”
+$Hikomaro
+“Waaaaaaaaaaaaaaaah…!”
+$Sakimi
+“D-Don’t cry!”
+$Hikomaro
+“Waaaaaaaaah! Waaaaaaaaah! *Hic*… waaaaaah!”
+$Sakimi
+“What on earth happened?!”
+$Hikomaro
+“*Sob* *sob* *wail* *wail*.”
+$Sakimi
+“I can't understand you if you’re just crying.”
+$Hikomaro
+“B-But… because…”
+Sakimi wiped his eyes with a handkerchief.
+$Hikomaro
+“I-I’m sorry.”
+$Sakimi
+“Anyway, just calm down.”
+$Hikomaro
+“Y-Yes.”
+$Sakimi
+“First, take a deep breath.”
+$Hikomaro
+“*Inhale* *Exhale*… *Inhale* *Exhale*.”
+$Sakimi
+“Are you calm now?”
+$Hikomaro
+“…”
+$Hikomaro
+“…I’m going to die.”
+$Sakimi
+“Whoa…”
+$Hikomaro
+“There’s no meaning to living anymore.”
+$Sakimi
+“D-Don’t be so hasty!”
+$Hikomaro
+“Where was the kitchen knife again?”
+*Patter patter patter patter.*
+$Hikomaro
+“*Sob* *sob*… the knife…!”
+*Patter patter patter patter.*
+$Sakimi
+“I hid all the knives!”
+$Hikomaro
+“*Sob* *sob* *hic*.”
+$Sakimi
+“So give up on dying.”
+$Hikomaro
+“Then I’ll set this house on fire…”
+$Sakimi
+“That’s enough!”
+$Hikomaro
+“I’ve had enough too!”
+$Sakimi
+“That’s better.”
+$Hikomaro
+“But after I’ve had enough, what am I supposed to do?!”
+$Sakimi
+“Huh?”
+$Hikomaro
+“What am I supposed to do?!”
+$Sakimi
+“…”
+$Hikomaro
+“Am I just supposed to pretend nothing happened and act normal?!”
+$Sakimi
+“…Just tell me what happened.”
+$Hikomaro
+“She was married.”
+$Sakimi
+“…”
+$Sakimi
+“…You’re joking… right?”
+$Hikomaro
+“The husband is that stone-faced guy at Taiseitei.”
+$Sakimi
+“Eh…”
+$Hikomaro
+“They weren't siblings from the start.”
+$Sakimi
+“…”
+$Hikomaro
+“Those two were a married couple.”
+$Sakimi
+“Instead of getting an answer to your confession, that’s what she told you?”
+$Hikomaro
+“She told me everything.”
+$Sakimi
+“…Well, that’s rough.”
+$Hikomaro
+“*Sniff*… *sniff*… yes…”
+$Sakimi
+“Are you okay?”
+$Hikomaro
+“I am not okay!”
+$Sakimi
+“Then, cry.”
+$Hikomaro
+“I’m going to cry~.”
+$Sakimi
+“You can cry and lean on me all you want.”
+She wrapped her arms around his back.
+She gently pulled Maro’s head toward her.
+$Sakimi
+“In times like these, leaning on someone is the best thing to do.”
+$Hikomaro
+“*Wail*… *sob*… *sniff*…”
+$Sakimi
+“Want to suck on my breasts?”
+$Hikomaro
+“I-I will~.”
+$Sakimi
+“Alright.”
+*Poof.*
+$Sakimi
+“…”
+$Hikomaro
+“*Sniff*… *slurp*… *slurp*…”
+$Sakimi
+“Does it taste good?”
+$Hikomaro
+“Nothing’s coming out, but somehow it helps.”
+$Sakimi
+“Did you calm down a little?”
+$Hikomaro
+“Y-Yes.”
+$Sakimi
+“She really is a fool.”
+$Hikomaro
+“I’ve become so pathetic, like a clown.”
+$Sakimi
+“Not you, Sensei. Her.”
+$Hikomaro
+“Why is that?”
+$Sakimi
+“To turn down such a good man.”
+$Hikomaro
+“Even if it’s just flattery, it makes me happy.”
+$Sakimi
+“It’s not flattery.”
+*Squeeze.*
+$Sakimi
+“You’re a handsome man, Sensei.”
+$Hikomaro
+“R-Really?”
+$Sakimi
+“So much so that I’d want to marry you myself.”
+$Hikomaro
+“To think you’d say such a thing…”
+$Sakimi
+“There are definitely others besides me.”
+$Hikomaro
+“But Yukina-chan… Yukina-chan… *sniff*.”
+$Sakimi
+“Don’t lose your confidence just because you got turned down once.”
+$Hikomaro
+“…But… *sniff*… *sob*…”
+$Sakimi
+“She was special, in many ways.”
+$Hikomaro
+“Of course she was special. She had a great figure, and her breasts were big too.”
+$Sakimi
+“O-Oh, that’s what you meant?”
+$Hikomaro
+“She had the air of a refined Japanese woman, and her shy smile was strangely adorable.”
+$Sakimi
+“…Yeah.”
+$Hikomaro
+“And yet, and yet…”
+The face of her smiling at the shop came to mind.
+The tears that had been held back began to fall once again.
+$Hikomaro
+“To think she was a married woman… waaaaaaaah!”
+$Sakimi
+“But she didn't do it out of malice.”
+$Hikomaro
+“I know… I know, and that’s why it’s so hard!”
+$Sakimi
+“I think she did like you, Sensei.”
+$Hikomaro
+“She liked me?”
+$Sakimi
+“Yeah.”
+$Hikomaro
+“Why do you think so?”
+$Sakimi
+“Just a woman’s intuition.”
+$Hikomaro
+“But I was turned down.”
+$Sakimi
+“…If she has a husband, it can't be helped.”
+$Hikomaro
+“*Sniff*… I really wanted to marry her… *sob*…”
+$Sakimi
+“She told you the truth because she knew you were serious.”
+$Hikomaro
+“*Hic*… *sniff*… waaaaah….”
+$Sakimi
+“So your feelings definitely reached her.”
+$Hikomaro
+“If I’m rejected, it doesn’t matter if they reached her or not!”
+$Sakimi
+“Then let's look for someone who will accept them.”
+$Hikomaro
+“I-I can’t even think about that right now.”
+$Sakimi
+“I’m telling you, there are as many women as there are stars.”
+$Hikomaro
+“Even so, there’s only one Yukina-chan!”
+$Sakimi
+“You only feel that way because you just got rejected.”
+$Hikomaro
+“There’s only one person like you, and there’s only one Yukina-chan!”
+$Sakimi
+“You’ll have another wonderful encounter.”
+$Hikomaro
+“I won’t… waaaaah!”
+$Sakimi
+“Don’t be so pessimistic… okay?”
+$Hikomaro
+“I’ll just stay single like this forever, grow old, and before I know it, I’ll be dead and found as a skeleton!”
+$Sakimi
+“Now listen here.”
+$Hikomaro
+“It’s definitely going to happen… waaaaaaah!”
+$Sakimi
+“Either way, you’re alone when you die.”
+$Hikomaro
+“It’s the being alone before I die that’s so lonely!”
+$Sakimi
+“…I see.”
+$Hikomaro
+“Will you stay my friend?”
+$Sakimi
+“Of course.”
+$Hikomaro
+“Forever?”
+$Sakimi
+“Forever.”
+$Hikomaro
+“Really, really?”
+$Sakimi
+“Really, really.”
+$Hikomaro
+“That’s definitely a lie.”
+$Sakimi
+“It’s not a lie!”
+$Hikomaro
+“You’ll disappear one day… *sniff*.”
+$Sakimi
+“…”
+$Hikomaro
+“You’ll move away without even telling me… *sob*.”
+$Sakimi
+“…You really are feeling weak.”
+$Hikomaro
+“I’m in tatters, all withered up.”
+$Sakimi
+“The way you’re crying is like a small child.”
+$Hikomaro
+“I’m just a child anyway… *fidget fidget*… *sniff*.”
+$Sakimi
+“Even though you’re forty-five, you’re a c-h-i-l-d.”
+$Hikomaro
+“…What time is it now?”
+$Sakimi
+“Eleven.”
+$Hikomaro
+“It’s okay for you to go home now.”
+$Sakimi
+“Eh?”
+$Hikomaro
+“Your husband will worry if it gets late.”
+$Sakimi
+“Didn't I say it was fine today?”
+$Hikomaro
+“The celebration we planned is gone.”
+$Sakimi
+“…Yeah.”
+$Hikomaro
+“It’ll just be boring if you stay here.”
+$Sakimi
+“…I’m not particularly bored, though.”
+$Hikomaro
+“I’m just going to take a bath and go to bed.”
+$Sakimi
+“Want me to go in with you?”
+$Hikomaro
+“I’ll be fine alone.”
+$Sakimi
+“You’re being quite the wet blanket.”
+$Hikomaro
+“I’m not a child, after all.”
+$Sakimi
+“Are you quite bothered by being called a child?”
+$Hikomaro
+“Not at all.”
+$Sakimi
+“Hmm.”
+$Hikomaro
+“*Sniff*…”
+$Sakimi
+“…”
+$Hikomaro
+“*Sniff*…”
+$Sakimi
+“…See.”
+$Hikomaro
+“*Sniff*… *wail*…”
+$Sakimi
+“You really don't want to be alone, do you?”
+$Hikomaro
+“I’m… *sniff*… fine… *sniff*… really… *sniff*…”
+$Sakimi
+“…You know.”
+She whispered softly.
+She twirled Maro’s hair around her fingers.
+$Sakimi
+“I’m not such a perfect wife…”
+$Hikomaro
+“*Wail*… *hic*… *sniff*…”
+$Sakimi
+“…that I could just leave you like this.”
+She said that as she slowly pulled her knees away.
+She stood by Maro’s side with a bright smile.
+$Sakimi
+“Leave the rest to me.”
+$Hikomaro
+“H-Huh?”
+$Sakimi
+“You can just stay still, Sensei.”
+$Hikomaro
+“…”
+$Hikomaro
+“…Eh?”
+She rustled around in the corner of the room.
+She took off her clothes as if she were about to get in the bath.
+In the blink of an eye, she was in her birthday suit.
+$Sakimi
+“There.”
+$Hikomaro
+“P-Please put some clothes on.”
+$Sakimi
+“It’s fine, it’s fine.”
+$Hikomaro
+“What’s fine?!”
+$Sakimi
+“My own little consolation party.”
+$Hikomaro
+“…”
+She looked like she was about to whistle.
+She clicked and unfastened the belt of his trousers.
+$Sakimi
+“It’s big even when it’s flaccid, isn't it.”
+$Hikomaro
+“Wha-…”
+$Sakimi
+“I’ll wrap it up in my friendship.”
+*Squish…*
+$Sakimi
+“But it won't go in if it’s soft.”
+$Hikomaro
+“W-What are you doing?!”
+$Sakimi
+“Can’t you tell by looking?”
+$Hikomaro
+“I’m asking why you’re doing this!”
+$Sakimi
+“For now, just make it hard.”
+$Hikomaro
+“I-I can’t at a time like this!”
+$Sakimi
+“It’s precisely because it’s a time like this.”
+She ignored Maro’s words.
+She pressed the tip of his glans against her labia.
+She rubbed it with her fingers.
+Moving as if to make each other’s presence familiar.
+She tried to bury it inside little by little.
+$Hikomaro
+“Your appearance is quite bold.”
+$Sakimi
+“Is it?”
+$Hikomaro
+“I can't believe this is the usual you.”
+$Sakimi
+“Can you see everything?”
+$Hikomaro
+“Y-Yes.”
+$Sakimi
+“What can you see?”
+$Hikomaro
+“Everything!”
+$Sakimi
+“I don’t know what 'everything' means.”
+*Squeeze, squish, rub.*
+$Hikomaro
+“*Whimper*…”
+$Sakimi
+“Did it get a little harder… maybe?”
+$Hikomaro
+“Anyone would, if they were toyed with like that…”
+$Sakimi
+“Tell me what you see.”
+$Hikomaro
+“Your genitals.”
+$Sakimi
+“'Genitals' doesn’t sound like you, Sensei.”
+$Hikomaro
+“Eh…”
+$Sakimi
+“You have to clearly say 'pussy'.”
+$Hikomaro
+“Pu… ssy…”
+The four-letter word from her mouth.
+And she didn't even change her expression.
+As if she used it every day.
+$Sakimi
+“…It just swelled up a bit.”
+$Hikomaro
+“Ugh…”
+$Sakimi
+“Grow bigger and bigger.”
+$Hikomaro
+“P-Please stop teasing me.”
+$Sakimi
+“What’s happening to my pussy?”
+$Hikomaro
+“It’s split wide open in the front.”
+$Sakimi
+“Why?”
+$Hikomaro
+“Because I’m pressing my cock against it!”
+$Sakimi
+“Then, let's just put it in.”
+*Squish…*
+$Hikomaro
+“Ah…”
+$Sakimi
+“Can I put it in?”
+$Hikomaro
+“N-No.”
+$Sakimi
+“Why?”
+$Hikomaro
+“Your husband will scold me.”
+$Sakimi
+“There you go again.”
+$Hikomaro
+“He really will!”
+$Sakimi
+“Might he actually be happy about it?”
+$Hikomaro
+“H-Huh?”
+$Sakimi
+“Well, that’s if he were watching from the side.”
+$Hikomaro
+“…”
+$Sakimi
+“…”
+$Sakimi
+“…I’m starting to feel sad saying that myself.”
+$Hikomaro
+“…”
+$Sakimi
+“…I remembered the hidden camera too… sigh.”
+$Hikomaro
+“You’re feeling weak too, aren't you.”
+$Sakimi
+“Compared to you right now, it’s tiny.”
+*Squish… squish…*
+$Hikomaro
+“I-It’s really going in!”
+$Sakimi
+“Use this to cheer up, Sensei.”
+*Squish… squelch…*
+$Hikomaro
+“No, no, no…”
+$Sakimi
+“Your voice is cute.”
+*Squelch… squish…*
+$Sakimi
+“Mnh…”
+$Hikomaro
+“Ah… ah… ah…”
+*Squelch squelch… squish… squelch…*
+$Hikomaro
+“Ugh… haa…”
+$Sakimi
+“It went in, didn't it.”
+$Hikomaro
+“It went in.”
+$Sakimi
+“How does it feel?”
+$Hikomaro
+“It’s warm.”
+$Sakimi
+“It’s a bit much to ask, but…”
+*Squelch… squelch… squelch…*
+$Hikomaro
+“*Whimper*…”
+$Sakimi
+“Doesn’t it feel relieving when you put your cock in?”
+$Hikomaro
+“I-It does.”
+$Sakimi
+“When you say that, it makes it worthwhile for me too.”
+*Squelch… squelch… squelch…*
+$Hikomaro
+“*Whimper*…”
+$Sakimi
+“As a reward for answering honestly…”
+*Squelch… squelch… squelch… squelch…*
+$Sakimi
+“I’ll make it even harder for you.”
+$Hikomaro
+“*Whimper*… *whimper*…”
+$Sakimi
+“I’ll make it rock hard with my pussy.”
+Just before his cock pulled out.
+She raised her hips to the very limit.
+Making squelching sounds as she buried it again.
+Her wide-open pussy was in full view.
+He could clearly see it going in and out.
+$Sakimi
+“Heave-ho, heave-ho, heave-ho…”
+*Squelch, squelch, squelch…*
+$Sakimi
+“Heave-ho, heave-ho, heave-ho…”
+*Squelch, squelch, squelch…*
+$Sakimi
+“H-Heave-ho… heave-ho… heave-ho…”
+*Squelch, squelch, squelch…*
+$Sakimi
+“Heave-ho… mnh… heave-ho… heave-ho…”
+*Rock hard.*
+$Sakimi
+“H-Heave… ho…”
+*Squelch, grind, squelch, grind, squelch…*
+$Sakimi
+“M-Make it a little softer.”
+$Hikomaro
+“I feel like that’s the opposite of what you just said.”
+$Sakimi
+“T-The stimulation is too strong for me.”
+$Hikomaro
+“I can’t make such fine adjustments!”
+$Sakimi
+“I see… I guess it can't be helped… geez.”
+*Squelch, squelch, grind, squelch…*
+$Sakimi
+“Ugh… this is bad…”
+*Grind, squelch, squelch, grind, squelch…*
+$Sakimi
+“Ugh… ugh…”
+*Grind, grind, squelch, grind, squelch, grind…*
+$Sakimi
+“S-Say something.”
+$Hikomaro
+“Huh?”
+*Slip, squelch, grind, grind, squelch, grind…*
+$Sakimi
+“It might be bad if I’m not talking.”
+$Hikomaro
+“Your breasts are swaying attractively.”
+$Sakimi
+“Do you like watching them sway?”
+$Hikomaro
+“More than anything.”
+$Sakimi
+“W-What else?”
+$Hikomaro
+“I like your warmth.”
+$Sakimi
+“Do you mean for your cock?”
+$Hikomaro
+“Yes.”
+$Sakimi
+“Do you feel like your mood is clearing up a bit?”
+$Hikomaro
+“It is.”
+$Sakimi
+“Do you think you can forget about her?”
+$Hikomaro
+“T-That’s impossible.”
+$Sakimi
+“You still don't have enough warmth!”
+*Squelch, grind, squelch, squelch…*
+$Sakimi
+“Ugh…”
+*Grind, squelch, grind, squelch, squelch…*
+$Sakimi
+“W-Why is it so…”
+*Squelch, grind, squelch, grind, squelch, squelch…*
+$Sakimi
+“…hard?”
+*Grind, squelch, grind, squelch, grind, squelch, twitch…*
+$Sakimi
+“Ah…”
+*Twitch, grind, squelch, grind, twitch twitch.*
+$Sakimi
+“I-I can’t… I can’t… win…”
+Her lower abdomen twitched.
+Her knees shook violently.
+*Grind, squelch, squelch, squelch…*
+$Sakimi
+“It’s hard… Sensei…”
+*Grind, squelch, grind, squelch, squelch…*
+$Sakimi
+“It’s too hard!”
+*Squelch, grind, squelch, grind, squelch, squelch…*
+$Sakimi
+“B-But I won’t lose!”
+*Squelch, squelch, squelch, squelch, squelch, squelch.*
+$Sakimi
+“Feel the strength of these legs, trained on the job!”
+*Squelch, squelch, squelch, squelch, squelch, squelch.*
+$Hikomaro
+“Amazing…!”
+$Sakimi
+“Isn't it?”
+$Hikomaro
+“Yes.”
+$Sakimi
+“It’s warming you up, isn't it?”
+$Hikomaro
+“It is.”
+$Sakimi
+“It feels good, doesn't it?”
+$Hikomaro
+“It feels good.”
+$Sakimi
+“B-But, you know…”
+*Squelch, twitch!*
+$Sakimi
+“Something’s really bad…”
+*Squelch, twitch, squelch, twitch…*
+$Sakimi
+“It’s not just you.”
+$Hikomaro
+“What is it?”
+$Sakimi
+“It’s how good it feels.”
+*Squelch, grind, squelch, grind, squelch.*
+$Sakimi
+“I-It’s not just hard…”
+*Grind, squelch, grind, squelch, grind, squelch.*
+$Sakimi
+“*Whimper*… it’s so thick and long, it keeps hitting the back….”
+$Hikomaro
+“Moving your hips less would solve that.”
+$Sakimi
+“I-If I do that, Sensei’s healing will be cut in half.”
+*Grind, squelch, squelch, grind, squelch, squelch, grind.*
+$Sakimi
+“Even as I say that…”
+*Twitch.*
+$Sakimi
+“W-What am I doing this for…?”
+*Twitch, twitch.*
+$Sakimi
+“I-I’m starting to get confused….”
+*Squelch, grind, squelch…!*
+$Sakimi
+“What am I really doing this for?!”
+*Squelch, squelch, twitch, squelch…!*
+$Sakimi
+“C-Could it be for myself?!”
+*Squelch, squelch, squelch, squelch, squelch…!*
+$Sakimi
+“I-It’s been so long!”
+*Squelch, twitch, squelch, squelch, twitch, squelch…!*
+$Sakimi
+“Since I’ve had sex!”
+*Squelch, twitch, squelch, twitch, twitch, squelch…!*
+$Sakimi
+“W-Which one is it?!”
+*Squelch, squelch, twitch, squelch, squelch, twitch…!*
+$Sakimi
+“Sensei, tell me!”
+$Hikomaro
+“I don't understand difficult things.”
+$Sakimi
+“I told you to tell me!”
+$Hikomaro
+“But I’ve accepted your kindness.”
+$Sakimi
+“R-Really?”
+$Hikomaro
+“Yes.”
+$Sakimi
+“Then, let’s say it’s for Sensei’s sake…”
+*Squelch, squelch…*
+$Sakimi
+“I’m doing it for Sensei… I’m doing it for Sensei….”
+*Squelch, squelch, squelch…*
+$Sakimi
+“I’m doing it for Sensei… I’m doing it for Sensei… *whimper*… *moan*… for Sensei, for Sensei… ah… maybe that’s not it after all!”
+*Twitch!*
+$Sakimi
+“Hey… you idiot self… don’t come…!”
+*Twitch, twitch!*
+$Sakimi
+“It feels too good, I can’t control it anymore…!”
+*Twitch… twitch… stop…*
+$Sakimi
+“…”
+$Hikomaro
+“?”
+$Sakimi
+“C-Can I… take a little break?”
+$Hikomaro
+“That’s fine.”
+$Sakimi
+“Thank you, sorry.”
+$Hikomaro
+“You really are cute, Sakimi-san.”
+$Sakimi
+“Eh?”
+$Hikomaro
+“I feel like I’ve been healed all at once.”
+$Sakimi
+“…”
+$Sakimi
+“…I don’t quite understand, but I’m glad.”
+$Hikomaro
+“Did you tell your husband about the hidden camera?”
+$Sakimi
+“N-No… not yet.”
+$Hikomaro
+“I see.”
+*Squelch, squelch…*
+$Sakimi
+“Ah… wait….”
+$Hikomaro
+“Are you going to let it slide without saying anything?”
+$Sakimi
+“I-I don't intend to do that.”
+*Squelch, squelch, squelch…!*
+$Sakimi
+“Sensei, your hips are moving…!”
+$Hikomaro
+“I wonder what will happen if you tell him.”
+$Sakimi
+“I don't know.”
+*Squelch, squelch….*
+$Sakimi
+“H-He might just stay silent and not answer anything.”
+$Hikomaro
+“That is certainly a possibility.”
+*Squelch, squelch, squelch, squelch…!*
+$Sakimi
+“Wait… you’re… still moving….”
+$Hikomaro
+“Will you press him until he answers?”
+$Sakimi
+“I-If I do that… ah… what will happen to Ma-kun…?”
+$Hikomaro
+“But you know why he set it up.”
+$Sakimi
+“Yeah.”
+$Hikomaro
+“Wouldn't it be better to make things clear to some extent?”
+$Sakimi
+“But it’s scary.”
+$Hikomaro
+“What is?”
+$Sakimi
+“*Whimper*… it’s scary to hear it directly from Ma-kun’s mouth….”
+$Hikomaro
+“…”
+$Sakimi
+“If he tells me he wants to see me being held by another man.”
+*Squelch, squelch, squelch, squelch, squelch…!*
+$Sakimi
+“I won’t know what to do anymore.”
+*Twitch, twitch.*
+$Sakimi
+“Sensei, stop!”
+$Hikomaro
+“No~.”
+$Sakimi
+“I shouldn't be the one being healed!”
+$Hikomaro
+“It’s a gesture of my gratitude.”
+$Sakimi
+“G-Gratitude?”
+$Hikomaro
+“I’ve started to feel like a fool for moping around.”
+$Sakimi
+“Does that mean you’re feeling more positive?”
+$Hikomaro
+“It’s not perfect, but yes.”
+$Sakimi
+“You won’t say you want to die anymore?”
+$Hikomaro
+“I won’t.”
+$Sakimi
+“Do you feel like looking for a new girlfriend?”
+$Hikomaro
+“I don't think I can right away, but I intend to think about it.”
+$Sakimi
+“T-Then, I’ll pull it out.”
+$Hikomaro
+“Pull what out?”
+$Sakimi
+“Your c-cock.”
+$Hikomaro
+“Are you sure you want to pull it out?”
+*Squish, squish, squish…*
+$Sakimi
+“*Whimper*… ah… you can… pull it out….”
+$Hikomaro
+“Are you sure?”
+*Squish, grind, squish, grind…!*
+$Sakimi
+“Hyah… t-there… that’s mean… hey… stop….”
+*Squelch, grind, grind, squelch, grind…!*
+$Sakimi
+“Ah, ah… *moan*… stop… stop… you idiot!”
+$Sakimi
+“Stop it… hey, Sensei… ah… don't grind it like that… *whimper*… hah… no… no, no…!”
+*Grind, grind, grind, grind, grind…!*
+$Sakimi
+“Aaaah, you idiot, you idiot! I was already about to come, why would you do that!”
+$Hikomaro
+“Then I’ll pull it out quietly~.”
+$Sakimi
+“You can pull it out… n-no, actually… mnh… i-it’s different… you can pull it out… pull it out… *moan*… but… but….”
+$Hikomaro
+“Which is it?”
+$Sakimi
+“P-Pull it out…”
+$Hikomaro
+“Understood~.”
+*Squish…*
+$Sakimi
+“Ah… wait, n-no, actually, no!”
+$Hikomaro
+“You’re being unusually indecisive.”
+$Sakimi
+“T-Then, let’s do this.”
+$Hikomaro
+“Yes?”
+$Sakimi
+“I’ll set one condition.”
+$Hikomaro
+“What is it?”
+$Sakimi
+“You have to ejaculate too.”
+$Hikomaro
+“Huh?”
+$Sakimi
+“Then I’ll let you stay inside and come.”
+$Hikomaro
+“To think you’d be so bossy at a time like this.”
+*Grind!*
+$Sakimi
+“Haaan! L-Lies! I’m sorry!”
+$Hikomaro
+“Even if you apologize, it’s no good.”
+$Sakimi
+“I-I was wrong, sorry… I was joking!”
+$Hikomaro
+“Sakimi-san.”
+$Sakimi
+“W-What?”
+$Hikomaro
+“Thank you so much, truly.”
+$Sakimi
+“W-What’s with you… all of a sudden.”
+$Hikomaro
+“I will never forget this kindness. If anything ever happens to you, I’ll protect you with my life.”
+$Sakimi
+“…Eh… eh?”
+$Hikomaro
+“Please remember that, at least.”
+$Sakimi
+“I-I don’t quite understand… but I’ll take your word for it….”
+$Hikomaro
+“Now, please come.”
+*Grind, grind, grind, grind.*
+$Sakimi
+“*Whimper*… don’t move… in such short strokes…!”
+*Grind, grind, grind, grind, grind.*
+$Sakimi
+“Ah, aaaaaah! I-I’m coming! I’m coming, Sensei!”
+$Hikomaro
+“Please wait just a little longer.”
+$Sakimi
+“*Whimper*… ah… I can’t… wait… anymore…!”
+$Hikomaro
+“As you wish, let’s ejaculate… together….”
+$Sakimi
+“U-Understood… I’ll wait… I’ll wait… *whimper*… aah….”
+*Grind, grind, grind, grind, grind, grind.*
+$Sakimi
+“B-But hurry… or I’ll… head out first… hyah… ugh… mnh… hah… hah….”
+*Twitch twitch twitch, squeeze!*
+$Sakimi
+“Hiiii… mnh….”
+$Hikomaro
+“It’s tightening up~.”
+$Sakimi
+“Y-You’re pulsing too….”
+*Twitch, twitch, twitch…!*
+$Sakimi
+“Are you about to come?!”
+$Hikomaro
+“I’m about to come!”
+$Sakimi
+“D-Don’t hold back, come inside me… okay?”
+$Hikomaro
+“But I’m not wearing a condom.”
+$Sakimi
+“Today’s a safe day, so it’s fine.”
+$Hikomaro
+“But just in case…”
+$Sakimi
+“I don't want you to pull it out.”
+$Hikomaro
+“What a naughty wife you are~.”
+$Sakimi
+“S-Say whatever you want.”
+$Hikomaro
+“You really are just doing this to make me feel good, aren't you?”
+$Sakimi
+“That’s not it!”
+$Hikomaro
+“Because you’re that kind of person.”
+$Sakimi
+“I just don't want to get the floor dirty.”
+$Hikomaro
+“I’ve never heard such an excuse.”
+*Squelch, squelch, grind.*
+$Sakimi
+“*Whimper*….”
+*Grind, grind, grind….*
+$Sakimi
+“Ah… it’s coming… Sensei… it’s coming!”
+$Hikomaro
+“I’m about to come too.”
+$Sakimi
+“Is it coming?!”
+$Hikomaro
+“I-It’s coming!”
+$Sakimi
+“Ejaculate and forget everything!”
+*Squelch, squelch, squelch…!*
+$Sakimi
+“Release it all and forget about her!”
+$Hikomaro
+“Yes!”
+$Sakimi
+“That’s a promise!”
+$Hikomaro
+“It’s a promise!”
+$Sakimi
+“S-Something good… will happen… soon….”
+*Grind, grind, grind, grind….*
+$Sakimi
+“*Whimper*… I-I’m coming…!”
+$Hikomaro
+“I’m coming too!”
+$Sakimi
+“I’m coming… it feels so good… Sensei, I’m coming! I’m coming! I’m coming!”
+*Squeeeeeeeeeze!*
+*Splurt!!*
+$Hikomaro
+“Hyaun!”
+$Sakimi
+“Aaaaaah, it’s coming…!”
+*Splurt, squirt, splurt, squirt, squirt!*
+$Hikomaro
+“Ugh… khu… haa…!”
+$Sakimi
+“I-It’s hitting… deep inside…!”
+*Splurt, squirt, splurt, squirt, squirt!*
+$Hikomaro
+“Hiii… mnh….”
+$Sakimi
+“It’s hitting… so much… so much….”
+*Splurt, splurt… splurt… splurt… drip….*
+$Sakimi
+“Ah… amazing… Sensei… it’s so hot….”
+The semen burst forth in a great torrent.
+The vaginal walls in her trembling lower abdomen tightened.
+It overflowed from the connection with a wet sound.
+*Squelch….*
+$Sakimi
+“Ah….”
+She tightly constricted her vaginal opening.
+Desperately trying to prevent it from dripping out.
+That gesture was so endearing.
+He felt a sudden urge to embrace her.
+But she was the one who did it.
+She slumped over as if clinging to him.
+Holding onto Maro while gasping for breath.
+$Sakimi
+“Hah… hah… hah… hah… Sensei….”
+$Hikomaro
+“…”
+I am happy.
+Sex isn't just about the physical parts.
+The connection between hearts is what matters.
+Learning that once again.
+Maro drifted off into a light sleep….
+Early morning.
+She went home.
+She said her greetings as usual.
+And left through the window as usual.
+But her expression was bright.
+As if she had reached some kind of conclusion.
+For a while after that.
+Contact from Sakimi-san ceased.
+Her face no longer peered through the window.
+To be honest, it was lonely.
+But he couldn't be too selfish.
+The completion of the building was probably nearing.
+She must be spending her days busy.
+And Taiseitei.
+Naturally, he stopped going.
+The talk of returning or not returning also faded away.
+Perhaps Yukina-chan had given up too.
+No contact came to Maro’s phone.
+To be honest, he didn't hear many good rumors.
+Deliveries stopped.
+The shop didn't open until noon.
+After that, it was often closed at irregular times.
+The regular customers decreased one by one.
+A month later, on a Sunday.
+When he happened to pass through the arcade.
+He saw Sakimi-san for the first time in a while.
+She was in the center of a circle.
+Her husband was behind her to the side.
+And there were two men he had never seen before.
+It seemed like they were talking.
+But Maro, watching from a distance, couldn't hear anything.
+$Sakimi
+“Ah…”
+She noticed Maro.
+$Sakimi
+“...!”
+She didn't wave her hand.
+Nor did she bow her head.
+She just gave Maro a troubled smile.
+And looked restless and uncomfortable.
+That’s when he noticed.
+That she wasn't wearing a bra.
+And she was wearing a miniskirt.
+He didn't know what the circumstances were.
+But she seemed different from the woman he knew.
+$Husband
+“…”
+The husband noticed Maro.
+And whispered with the two men in front of him.
+The elderly man glanced over here.
+And nodded as if agreeing with something.
+Immediately after.
+The other man blocked Maro’s view.
+Sakimi-san disappeared behind him.
+He could only see glimpses of her orange sweater.
+And he couldn't tell what kind of expression she had.
+And while surrounding her, the four of them began to move together.
+They walked as a solid group.
+And eventually disappeared into a narrow alleyway.
+$Hikomaro
+“Phew…”
+He felt uneasy.
+So Maro also entered the alley.
+After a while, he called her mobile.
+But she didn't answer.
+Only the calling tone continued to ring in his ear.
+$Hikomaro
+“…I wonder what’s going on.”
+*Beep.*
+For the next few days.
+Maro called her several times.
+But there was still only the calling tone.
+And the state of no response continued.
+And five days later.
+Finally, an email arrived for Maro.
+“I’m doing well.”
+“Ma-kun and I have made up.”
+$Hikomaro
+“…Made up?”
+Was it about the hidden camera?
+Even as he thought that, he couldn't shake the feeling of unease.
+Maro tilted his head again and again.
+Besides, it had been a long time.
+The content was too curt.
+And while carrying that hazy feeling with him.
+Finally, Maro was to reach the fateful day….

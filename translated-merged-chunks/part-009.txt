@@ -1,0 +1,444 @@
+--------------------
+stage17
+********************
+...And then, during lunchtime the next day...
+$Hikomaro
+“Thank you for the meal-desuuuu.”
+$Yukina
+“...The check, then?”
+$Hikomaro
+“I have brought my wallet properly today-desuuuu.”
+$Yukina
+“T-That’s good to hear.”
+$Hikomaro
+“Today it was the salt ramen and half-fried rice-de ojaru ne. The menu is so plentiful, it is worth the effort of choosing... hoho.”
+$Yukina
+“...Was the flavor to your liking?”
+$Hikomaro
+“But of course, naturally...”
+It tasted bad
+It was delicious
+$Hikomaro
+“It was delicious-desuuuu.”
+$Yukina
+“He says it’s delicious, Onii-chan.”
+$Aniki
+“...”
+$Yukina
+“S-Sorry about that.”
+$Hikomaro
+“It is quite alright... until next time.”
+$Yukina
+“Kh... thank you very much.”
+...And then, during lunchtime the following day...
+$Hikomaro
+“Thank you for the meal-desuuuu.”
+$Yukina
+“Thank you as always.”
+$Hikomaro
+“Today I had the tantanmen and the stir-fried vegetables-desuuuu. I debated whether to add rice, and I find myself slightly regretting that I did not... hoho.”
+$Aniki
+“...”
+$Yukina
+“A-Ah, um...”
+$Hikomaro
+“What is it-desuuuu?”
+$Yukina
+“...”
+$Hikomaro
+“Please, do not hesitate.”
+$Yukina
+“...Was the flavor to your liking?”
+$Yukina
+“The stir-fried vegetables are our top recommendation aside from the noodles.”
+$Hikomaro
+“I thought that might be the case-desuuuu.”
+$Yukina
+“Then, as for the taste...”
+$Hikomaro
+“But of course, naturally...”
+It tasted bad
+It was delicious
+$Hikomaro
+“It was delicious-desuuuu.”
+$Yukina
+“He says it’s delicious, Onii-chan.”
+$Aniki
+“...”
+$Yukina
+“S-Sorry about that.”
+$Hikomaro
+“It is quite alright... until next time.”
+$Yukina
+“Kh... thank you very much.”
+$Hikomaro
+“It was delicious-desuuuu.”
+$Yukina
+“Onii-chan... did you hear that?”
+$Aniki
+“...”
+$Yukina
+“Really, I’m sorry he’s so silent.”
+$Hikomaro
+“It is quite alright... until next time.”
+$Yukina
+“Kh... thank you very much.”
+...And once again, during lunchtime the day after that...
+$Hikomaro
+“Thank you for the meal-desuuuu.”
+$Yukina
+“I’m sorry for always... every time.”
+$Yukina
+“I-I’m sorry for every single time.”
+$Hikomaro
+“Today was the large portion of tanmen and rice-desuuuu. As I thought, the rule for eating noodles more deliciously is to have them while they are piping hot-de ojaru ne.”
+$Yukina
+“That may indeed be true.”
+$Aniki
+“...”
+$Yukina
+“A-Ah, um...”
+$Hikomaro
+“What is it-desuuuu?”
+$Yukina
+“...”
+$Hikomaro
+“Please, do not hesitate.”
+$Yukina
+“...Was the flavor to your liking?”
+$Yukina
+“Kh... that may indeed be true.”
+$Aniki
+“...”
+$Yukina
+“A-Ah, um...”
+$Hikomaro
+“Yes.”
+$Yukina
+“...”
+$Hikomaro
+“Just like yesterday, do not hesitate-desuuuu.”
+$Yukina
+“Kh... was the flavor to your liking?”
+$Yukina
+“That may indeed be true.”
+$Hikomaro
+“I am honored that you agree-desuuuu.”
+$Yukina
+“Then today as well, as for the taste...”
+$Hikomaro
+“But of course, naturally...”
+It tasted bad
+It was delicious
+$Hikomaro
+“It was delicious-desuuuu.”
+$Yukina
+“He says it’s delicious, Onii-chan.”
+$Aniki
+“...”
+$Yukina
+“S-Sorry about that.”
+$Hikomaro
+“It is quite alright... until next time.”
+$Yukina
+“Kh... thank you as always.”
+$Hikomaro
+“It was delicious-desuuuu.”
+$Yukina
+“Onii-chan... did you hear that?”
+$Aniki
+“...”
+$Yukina
+“I’m truly sorry.”
+$Hikomaro
+“It is quite alright... until next time.”
+$Yukina
+“Kh... thank you as always.”
+$Hikomaro
+“It was delicious-desuuuu.”
+$Yukina
+“Onii-chan, for sure this time, did you hear?”
+$Aniki
+“...”
+$Yukina
+“Come on, Onii-chan!”
+$Aniki
+“...”
+$Yukina
+“I’m really, really sorry.”
+$Hikomaro
+“It is quite alright... until next time.”
+$Yukina
+“Kh... thank you as always.”
+--------------------
+stage17sub
+********************
+$Hikomaro
+“It tasted bad-desuuuu.”
+$Yukina
+“Eh?”
+$Aniki
+“...What did you say?”
+$Hikomaro
+“So you only react when there is a complaint-de ojaru ka.”
+$Aniki
+“What part of our food is bad?”
+$Hikomaro
+“I never said it was the food-desuuuu.”
+$Aniki
+“You're scared and suddenly backtracking? Even if you try to dodge, it won't work.”
+$Hikomaro
+“I do not care what you think of me, but your customer service toward the person at the counter was the absolute worst-desuuuu.”
+$Aniki
+“Huh?”
+$Hikomaro
+“They were talking to you about this and that, and you completely ignored them. I think that attitude is ‘bad’ indeed-desuuuu.”
+$Aniki
+“This is a place to feed people, not a place to come and chat.”
+$Hikomaro
+“Isn’t matching the customer's pace also part of the business-de ojaru ka?”
+$Aniki
+“That’s what shops with no confidence in their taste do.”
+$Hikomaro
+“That person likely will never return-de ojaru ne.”
+$Aniki
+“If they don't like it, they can go to another shop.”
+$Hikomaro
+“It is because you say such foolish things that this place is empty even during the peak lunch hour.”
+$Aniki
+“...”
+*Whack!*
+$Hikomaro
+“Fugyah!”
+$Yukina
+“O-Onii-chan!”
+$Aniki
+“Pay your money and get the hell out. I don't have to listen to some suspicious old man tell me what to do!”
+$Hikomaro
+“I—I understand-desuuuu.”
+$Yukina
+“A-Are you okay?”
+$Hikomaro
+“It was nothing major, yes.”
+$Yukina
+“I’m so, so, so sorry.”
+$Hikomaro
+“I am the one who should apologize for saying unnecessary things. Your brother’s attitude was just too much to bear, so I spoke up.”
+$Yukina
+“...It’s fine.”
+$Hikomaro
+“The prices are reasonable, so why is his pride so high-de ojaru ne?”
+$Yukina
+“Onii-chan set the current prices because he wanted many customers to eat. He wants various people to enjoy the taste he's proud of.”
+$Hikomaro
+“If that thought were actually being fulfilled, I would think there is no problem, but...”
+$Yukina
+“...”
+$Hikomaro
+“As it stands, I believe a little more spice in the form of friendliness is needed, yes.”
+$Yukina
+“...It’s been like that since his motorcycle shop days.”
+$Hikomaro
+“Huh?”
+$Yukina
+“He gets heated over the smallest things. When something rubs him the wrong way, he can’t control his emotions, and he’ll snap at anyone.”
+$Hikomaro
+“...Are you perhaps in despair-de ojaru ka?”
+$Yukina
+“Despair... or rather, it’s frustrating that I can't do anything about it.”
+$Hikomaro
+“If he realizes it himself, something can be done-desuuuu.”
+$Yukina
+“Eh?”
+$Hikomaro
+“Humans are creatures that learn. While a fundamental personality does not change, ways of thinking can change as much as one likes-desuuuu.”
+$Yukina
+“...”
+$Hikomaro
+“The salt ramen and half-fried rice were delicious. The next time I visit, please do ask me how the taste was-desuuuu.”
+$Hikomaro
+“Today’s tantanmen and stir-fried vegetables were delicious. The next time I visit, please do ask me how the taste was-desuuuu.”
+$Hikomaro
+“The large portion of tanmen and rice was delicious. The next time I visit, please do ask me how the taste was-desuuuu.”
+$Yukina
+“Ah... y-yes.”
+$Hikomaro
+“Until then, hoho.”
+$Hikomaro
+“It tasted bad-desuuuu.”
+$Yukina
+“Ugh...”
+$Aniki
+“...If it’s bad, why the hell do you keep coming?”
+$Hikomaro
+“Like I said, I am not talking about the taste-desuuuu.”
+$Aniki
+“Even if it's not the taste, if you don't like it, don't come.”
+$Hikomaro
+“Why did you ignore that customer’s order-de ojaru ka?”
+$Aniki
+“Huh?”
+$Hikomaro
+“The person who was sitting next to me-desuuuu. Surely you won't make the foolish excuse that you didn't hear them-de ojaru ne.”
+$Aniki
+“Customer service is my sister’s job.”
+$Hikomaro
+“The sister was in the middle of taking another customer’s order-desuuuu.”
+$Aniki
+“Nothing good happens when I handle customers. We end up fighting, or the atmosphere in the shop turns sour.”
+$Hikomaro
+“I think the atmosphere is already sour as it is-desuuuu.”
+$Aniki
+“It’s better than leaving someone with a blue bruise, isn't it?”
+$Hikomaro
+“So you intend to keep ignoring them from now on-desuuuu.”
+$Aniki
+“If you're gonna be like that, I'll just block off the kitchen with boards so customers can't see me. If I'm not visible, no one will talk to me.”
+$Hikomaro
+“If you hate it that much, you should just quit being in the service industry-desuuuu.”
+$Aniki
+“...What did you say?”
+$Hikomaro
+“Quit it, quit it-desuuuu.”
+$Yukina
+“S-Sensei...”
+$Aniki
+“Do you have any idea how much effort I put into finding a soup flavor that doesn't exist anywhere else?”
+$Hikomaro
+“Since you can treat a customer with such an attitude, I imagine you did not put in much effort at all-de ojaru ne.”
+$Aniki
+“...”
+*Whack!*
+$Hikomaro
+“Fugyah!”
+$Yukina
+“O-Onii-chan!”
+$Aniki
+“I take money as the price for the taste I provide. If you say you need anything else, then pay for that too!”
+$Hikomaro
+“Ramen shops are also part of the service industry-desuuuu.”
+$Aniki
+“It’s the food and drink industry!”
+*Whack!*
+$Aniki
+“Get out, you prick!”
+$Hikomaro
+“I—I understand-desuuuu.”
+$Yukina
+“I-I’m so sorry.”
+$Hikomaro
+“Kh... I am perfectly fine, yes.”
+$Yukina
+“You have a nosebleed...”
+$Hikomaro
+“My throat happened to be dry anyway... *gulp*.”
+$Yukina
+“Kh... I’m actually the one who should have said it.”
+$Hikomaro
+“Huh?”
+$Yukina
+“The things you said to Onii-chan, Sensei... I should have.”
+$Hikomaro
+“Your brother is acting spoiled toward you, Yukina-san.”
+$Yukina
+“...Eh?”
+$Hikomaro
+“Surely you are his emotional support-de ojaru ne. If he were alone, he could not endure things not going well or things he dislikes.”
+$Yukina
+“Why... do you think I'm his support?”
+$Hikomaro
+“I just felt that way looking at the two of you-desuuuu.”
+$Yukina
+“If that's the case, then I should be the one to speak up even more...”
+$Hikomaro
+“Can you not predict what would happen if you did-de ojaru ka?”
+$Yukina
+“Ugh...”
+$Hikomaro
+“If an effective medicine is used incorrectly, it can have the opposite effect-desuuuu.”
+$Yukina
+“...”
+$Hikomaro
+“The salt ramen and half-fried rice were delicious. The next time I visit, please do ask me how the taste was again-desuuuu.”
+$Hikomaro
+“The tantanmen and stir-fried vegetables were delicious. The next time I visit, please do ask me how the taste was again-desuuuu.”
+$Hikomaro
+“The large portion of tanmen and rice was delicious. The next time I visit, please do ask me how the taste was again-desuuuu.”
+$Yukina
+“B-But...”
+$Hikomaro
+“Until then, hoho.”
+$Aniki
+“Don't ask this guy anything anymore.”
+$Yukina
+“O-Onii-chan.”
+$Aniki
+“He's just going to say it’s bad again anyway, right?”
+$Hikomaro
+“I wonder-de ojaru ne.”
+$Aniki
+“What was that about noodles being better while they're piping hot?”
+$Hikomaro
+“Is it not my freedom to think what I wish-de ojaru?”
+$Aniki
+“Our food is delicious even if it’s not piping hot. I’m confident the taste doesn't change as long as the noodles don't get soggy.”
+$Hikomaro
+“I was merely stating a personal opinion-desuuuu.”
+$Aniki
+“I don't like that face of yours, acting like you're some kind of connoisseur.”
+$Hikomaro
+“...I wonder just what you are fighting against-de ojaru ne.”
+$Aniki
+“Huh?”
+$Hikomaro
+“Are customers enemies to you?”
+$Aniki
+“They aren't exactly enemies.”
+$Hikomaro
+“Do you think you’ll be cursed by heaven if you're kind to a customer-de ojaru ka?”
+$Aniki
+“...What are you trying to say?”
+$Hikomaro
+“Your sister, who has the awareness of someone in the service industry, responded in accordance with my words. Why can you, the shop owner, not do the same-de ojaru ka?”
+$Aniki
+“Mistakes have to be corrected properly.”
+$Hikomaro
+“In other words, you will not yield a single step to anyone-desuuuu.”
+$Aniki
+“A professional shouldn't yield to an amateur, right?”
+$Hikomaro
+“Just what kind of professional are you-de ojaru?”
+$Aniki
+“A chef, obviously!”
+$Hikomaro
+“But as a businessman, you are below an amateur-desuuuu. A stubborn and obstinate shop like this won't be popular in this day and age.”
+$Aniki
+“...”
+*Whack!*
+$Hikomaro
+“Fugyah.”
+$Yukina
+“S-Stop it, Onii-chan!”
+$Aniki
+“What the hell do you know?! Don't say whatever you please just because you're older than me!”
+$Aniki
+“I’m thinking about all sorts of things too! I'm gonna make this shop work while sticking to my policies!”
+$Hikomaro
+“Then I shall look forward to that time-desuuuu.”
+$Aniki
+“Don't ever come back, you jinx!”
+$Hikomaro
+“It’s delicious, so I will come again-desuuuu.”
+$Aniki
+“Shut up! Don't come!”
+*Whack!*
+$Hikomaro
+“Gueh.”
+$Yukina
+“Ah...!”
+$Aniki
+“Get out!”
+$Hikomaro
+“I—I understand-desuuuu.”
+$Aniki
+“Yukina, scatter some salt! Don't you ever cross this threshold again, you white-painted meddler who sticks his nose into other people's business!”

@@ -1,0 +1,498 @@
+--------------------
+stage23
+********************
+...And the following morning, 10:00 AM...
+Knock, knock...
+$Hikomaro
+“...”
+$Hikomaro
+“...*Yawn*.”
+$Sakimi
+“Open up~.”
+$Hikomaro
+“Yes... *yawn*...”
+Rattle, rattle, rattle.
+$Sakimi
+“Morning.”
+$Hikomaro
+“Good morning.”
+$Sakimi
+“Sorry for waking you up.”
+$Hikomaro
+“You served as a fine alarm clock, indeed.”
+$Sakimi
+“What time does your part-time job start?”
+$Hikomaro
+“At 11:00... *yawn*.”
+$Sakimi
+“Then I guess we’re fine for another thirty minutes.”
+$Hikomaro
+“What happened last night?”
+$Sakimi
+“Last night?”
+$Hikomaro
+“Since our conversation was cut short, Maro thought you would come by.”
+$Sakimi
+“Me, here?”
+$Hikomaro
+“Yes.”
+$Sakimi
+“Hnh, were you actually... waiting for me?”
+$Hikomaro
+“In a manner of speaking.”
+$Sakimi
+“You’re such a surprisingly nice guy.”
+$Hikomaro
+“Maro has been thinking so himself lately, ho-ho.”
+$Sakimi
+“I thought you’d be exhausted, so I held back.”
+$Hikomaro
+“Maro certainly forgot to even take a bath and fell asleep immediately.”
+$Sakimi
+“See?”
+$Hikomaro
+“And so, you are inviting Maro to your house, yes?”
+$Sakimi
+“So you actually listened to what I said.”
+$Hikomaro
+“Naturally.”
+$Sakimi
+“So, what’s your answer?”
+$Hikomaro
+“Maro said this at the site yesterday, but he is working without any days off. It seems this will continue for a while.”
+$Sakimi
+“What time do you usually finish at the shop?”
+$Hikomaro
+“At 8:00 PM at the earliest, Maro suppose.”
+$Sakimi
+“I told Ma-kun about your situation, and he said it’s fine if dinner is late.”
+$Hikomaro
+“Oh my.”
+$Sakimi
+“...Is it still too much for you?”
+$Hikomaro
+“What would become of your position if Maro were to refuse?”
+$Sakimi
+“I-It’d be fine, really.”
+$Hikomaro
+“Is that the truth?”
+$Sakimi
+“U-Uh-huh.”
+$Hikomaro
+“Meaning he would become even more clingy and spoiled?”
+$Sakimi
+“Hnh, we’re a married couple, so that’s fine.”
+$Hikomaro
+“Your cheek seems to be twitching a bit...”
+$Sakimi
+“T-That's not true, I tell you!”
+$Hikomaro
+“...If a late hour is acceptable, then Maro shall pay a visit.”
+$Sakimi
+“Really?”
+$Hikomaro
+“Yes.”
+$Sakimi
+“Saturday—I mean, tonight...”
+$Hikomaro
+“Maro is aware.”
+$Sakimi
+“Oh, good...”
+$Hikomaro
+“Was that a sigh of relief?”
+$Sakimi
+“I was prepared for you to turn me down.”
+$Hikomaro
+“Maro wonders why?”
+$Sakimi
+“Because when we talked at the site, you were so cold, Sensei. You just left in a flash.”
+$Hikomaro
+“Because the noodles would have gotten soggy, after all.”
+$Sakimi
+“...Eh?”
+$Hikomaro
+“Did Maro not say so?”
+$Sakimi
+“Was that actually the real reason?”
+$Hikomaro
+“There was nothing else to it.”
+$Sakimi
+“...That’s a relief, too.”
+$Hikomaro
+“Maro is glad all your worries are resolved.”
+$Sakimi
+“What about breakfast?”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“As a way of saying thanks, I’ll make some for you.”
+$Hikomaro
+“Maro intended to skip it this morning.”
+$Sakimi
+“Why?”
+$Hikomaro
+“Because Maro overate quite heartily last night, ho-ho.”
+$Sakimi
+“...You look happy for some reason.”
+$Hikomaro
+“Yes.”
+$Sakimi
+“Did something good happen?”
+$Hikomaro
+“Maro is glad you asked!”
+Maro looks quite proud of himself.
+His nostrils flare slightly.
+His eyes are sparkling like a character from a shojo manga.
+$Hikomaro
+“Maro had a girl cook a meal for him!”
+$Sakimi
+“...A girl... you mean Yukina-chan?”
+$Hikomaro
+“Yes.”
+$Sakimi
+“When?”
+$Hikomaro
+“Last night, as Maro was leaving.”
+$Sakimi
+“You mean she gave you shop food, right?”
+$Hikomaro
+“No.”
+$Sakimi
+“No matter how you look at it, it was shop food.”
+$Hikomaro
+“She treated Maro to her own home cooking!”
+$Sakimi
+“...Was it good?”
+$Hikomaro
+“Beyond words.”
+$Sakimi
+“...Hmph.”
+$Sakimi
+“...”
+$Sakimi
+“...W-Wait, what?”
+$Hikomaro
+“Is something the matter?”
+$Sakimi
+“I... I feel kind of irritated all of a sudden.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“What is this feeling?”
+$Hikomaro
+“Maro has no idea...”
+$Sakimi
+“Is... Is this jealousy?!”
+$Hikomaro
+“You must be joking, ho-ho-ho.”
+$Sakimi
+“It's not so much jealousy as...”
+She mumbles, moving her mouth.
+Searching for an answer she can live with.
+$Sakimi
+“It’s like a dad getting all chummy with some girl who’s a relative.”
+$Hikomaro
+“What on earth are you talking about?”
+$Sakimi
+“Something like that?”
+$Hikomaro
+“Maro follows you, yet does not follow you at all.”
+$Sakimi
+“Hnh, the truth is, I don't really get it either...”
+Ah!?
+$Hikomaro
+“Pardon?”
+$Sakimi
+“O-Oh no... the time...!”
+$Hikomaro
+“...”
+$Hikomaro
+“...Gah.”
+$Sakimi
+“H-Hurry up and get dressed!”
+$Hikomaro
+“M-Maro understands!”
+$Sakimi
+“Hnh, if I make you late, it’ll be a huge bother for you, Sensei, and I won't even be able to look Yukina-chan in the eye!”
+$Hikomaro
+“P-Please, do not rush Maro so much.”
+$Sakimi
+“Not the top, do the bottom first!”
+$Hikomaro
+“It is the same regardless of which one comes first.”
+$Sakimi
+“The pajama bottoms go first...”
+Boing.
+$Sakimi
+“W-Why do you have an erection?!”
+$Hikomaro
+“Because it is morning, indeed.”
+$Sakimi
+“Ugh, honestly...!”
+$Hikomaro
+“Fumble, fumble.”
+$Sakimi
+“The buttons on your shirt are off by one, look.”
+$Hikomaro
+“M-Maro is sorry.”
+$Sakimi
+“Are your socks in the usual place?”
+$Hikomaro
+“Y-Yes.”
+$Sakimi
+“Hnh, your fly is wide open!”
+$Hikomaro
+“O-Oh no!”
+Staaare.
+$Sakimi
+“I think you’ll make it somehow... *phew*...”
+$Hikomaro
+“Maro is fully prepared.”
+$Sakimi
+“Off you go, then.”
+$Hikomaro
+“You as well, Madam.”
+$Sakimi
+“...I'm off... let's both do our best... *phew*...”
+...And 15 minutes later...
+$Hikomaro
+“Good morning, *huff*, *phew*.”
+$Yukina
+“Good morning, Sensei.”
+$Hikomaro
+“Hnh, Maro made it just in time.”
+$Yukina
+“Eh?”
+$Hikomaro
+“Maro was on the verge of being late, ho-ho.”
+$Aniki
+“...Out playing around all night at your age?”
+$Hikomaro
+“Maro had some personal business this morning, yes.”
+$Aniki
+“We’ve got three orders in already today.”
+$Hikomaro
+“The numbers simply aren't growing, are they.”
+$Aniki
+“Relieved that nothing's changed?”
+$Hikomaro
+“Maro's hourly wage might go up if the shop makes a profit.”
+$Aniki
+“...Hmph.”
+$Aniki
+“We’ve got five orders in already today.”
+$Hikomaro
+“Two more than yesterday, Maro sees.”
+$Aniki
+“Don't go slacking off just because there's more.”
+$Hikomaro
+“Maro knows.”
+$Aniki
+“We’ve got eight orders in already today.”
+$Hikomaro
+“Five more than yesterday, indeed.”
+$Aniki
+“Don't go slacking off just because there's more.”
+$Hikomaro
+“Maro knows.”
+$Yukina
+“Here is today's map. I’ve written down the delivery order too.”
+$Hikomaro
+“Maro is sorry for the trouble every time.”
+$Yukina
+“I'll do anything I can to be of help.”
+$Hikomaro
+“Just having you by Maro's side is enough.”
+$Yukina
+“Eh?”
+$Hikomaro
+“Maro was just talking to himself, do not mind it.”
+$Yukina
+“Ah... Y-Yes.”
+$Aniki
+“...The noodles are gonna get soggy.”
+$Hikomaro
+“Then Maro is off immediately!”
+$Yukina
+“Please be careful at the intersections!”
+$Hikomaro
+“There is no need for worry.”
+Rattle, rattle, rattle...
+$Hikomaro
+“...”
+$Hikomaro
+“...Maro should do his best today as well, Maro suppose.”
+Squeak, squeak, squeak...
+$Hikomaro
+“...”
+$Hikomaro
+“...The wind feels quite pleasant, indeed.”
+First Stop: Takagi Residence.
+Second Stop: Nakamoto Residence.
+Third Stop: Kato Residence.
+$Hikomaro
+“Sorry to keep you waiting!”
+$Grandpa Kato
+“I’ve been waiting, *ptui*.”
+$Hikomaro
+“Let's see, one miso ramen, indeed.”
+$Grandpa Kato
+“Looks tasty, *ptui*.”
+$Hikomaro
+“Well then, Maro hopes for your continued patronage.”
+$Grandpa Kato
+“Wait a moment.”
+$Hikomaro
+“What is it?”
+$Grandpa Kato
+“Actually, the chain on my bike came off. It's the kind with a cover, so a geezer like me can't do a thing about it, *ptui*.”
+$Hikomaro
+“That is a misfortune, indeed.”
+$Grandpa Kato
+“Sorry to ask, but could you fix it?”
+$Hikomaro
+“Pardon?”
+$Grandpa Kato
+“You used to run a motorcycle shop, and you look like you're good with your hands, *ptui*.”
+$Hikomaro
+“Let's see, well...”
+It's a simple task
+Maro must refuse as he has more orders
+$Hikomaro
+“It's a simple task.”
+$Grandpa Kato
+“As expected of Daisetsutei, *ptui*.”
+$Hikomaro
+“The shop operates with a spirit of mutual aid at all times.”
+$Grandpa Kato
+“I'll make sure to tell my buddies about this, *ptui*.”
+$Hikomaro
+“Maro is grateful, ho-ho.”
+$Hikomaro
+“Maro must refuse as he has more orders.”
+$Grandpa Kato
+“Eeeeh, no go?”
+$Hikomaro
+“Maro still has deliveries to complete.”
+$Grandpa Kato
+“I'm disappointed in Daisetsutei, *ptui*.”
+$Hikomaro
+“There is a bicycle shop in the neighborhood, is there not?”
+$Grandpa Kato
+“I asked you because it's a pain to go there, *ptui*.”
+$Hikomaro
+“Maro would not want anything to happen if the repair were clumsy. Please handle it at your own risk... ho-ho.”
+Rattle, rattle, rattle...
+$Hikomaro
+“Maro has returned!”
+$Yukina
+“Welcome back, Sensei.”
+$Hikomaro
+“Maro feels at ease seeing Yukina-san’s face.”
+$Yukina
+“At ease?”
+$Hikomaro
+“It makes Maro feel like doing his best.”
+$Yukina
+“Hnh, I'm also relieved that you're safe, Sensei.”
+$Aniki
+“...What are you grinning for?”
+$Yukina
+“I-It's nothing like that...”
+$Aniki
+“Not you, I mean the old man.”
+$Yukina
+“Ah...”
+$Hikomaro
+“...Are there more delivery orders?”
+$Aniki
+“We’ve only got two for now.”
+$Hikomaro
+“The orders aren't increasing, are they.”
+$Aniki
+“It's not for a part-timer to worry about, is it?”
+$Hikomaro
+“You are exactly right.”
+$Aniki
+“We’ve got four for now.”
+$Hikomaro
+“They aren't increasing much, are they.”
+$Aniki
+“It's not for a part-timer to worry about, is it?”
+$Hikomaro
+“You are exactly right.”
+$Aniki
+“We’ve got eight for now.”
+$Hikomaro
+“They aren't increasing all that much, are they.”
+$Aniki
+“Business isn't that easy.”
+$Hikomaro
+“Maro is learning, yes.”
+$Aniki
+“We’ve got sixteen for now.”
+$Hikomaro
+“They increased all at once, indeed!”
+$Aniki
+“Didn't I tell you Daisetsutei is on the rise?”
+$Hikomaro
+“You certainly said so.”
+$Yukina
+“Um...”
+$Hikomaro
+“Yes.”
+$Yukina
+“If you like, here...”
+$Hikomaro
+“...”
+$Yukina
+“Hnh, there are two onigiri inside this drawstring bag.”
+$Hikomaro
+“Maro is grateful!”
+$Yukina
+“I’ve attached a hook so you can hang it from your waist.”
+$Hikomaro
+“Maro feels like a warrior setting out on an adventure, ho-ho.”
+$Yukina
+“I-It would be a problem if you actually went off somewhere, though.”
+$Hikomaro
+“Maro shall return properly. As long as Yukina-san is in this shop, Maro shall surely return!”
+...And 8 hours later...
+Rattle, rattle, rattle...
+$Hikomaro
+“M-Maro has... returned...”
+$Yukina
+“Welcome back, Sensei.”
+$Hikomaro
+“Hnh, is that all for today?”
+$Yukina
+“Yes.”
+$Hikomaro
+“Well then, Maro shall be off.”
+$Aniki
+“You’re in an awfully big hurry today.”
+$Yukina
+“You have some business to attend to, right?”
+$Hikomaro
+“Yes, Maro is going to pay a visit to Ayase-san’s house.”
+$Yukina
+“...Right now?”
+$Hikomaro
+“Would Yukina-san like to come along?”
+$Yukina
+“I-I'm a little...”
+$Aniki
+“...We still have cleanup to do over here.”
+$Yukina
+“Hnh, please give my regards to Ayase-san.”
+$Hikomaro
+“Understood. Well then, until tomorrow.”
+$Yukina
+“I'll be waiting for you at 11:00 AM. Good work today, Sensei.”
+Rattle, rattle, rattle...
+$Hikomaro
+“...”
+$Hikomaro
+“Maro got off a little earlier than usual today, indeed.”
+$Hikomaro
+“Maro should hurry to the Madam’s place. The later the start, the later the return, after all.”

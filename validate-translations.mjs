@@ -39,7 +39,8 @@ function lineType(line, isTranslated) {
     return "source";
 
   if (isTranslated) {
-    if (line.startsWith("\u201C") && line.endsWith("\u201D")) return "speech-quote";
+    if (line.startsWith("\u201C") && line.endsWith("\u201D"))
+      return "speech-quote";
     if (line.startsWith('"') && line.endsWith('"')) return "speech-quote";
     if (line.startsWith("(") && line.endsWith(")")) return "speech-paren";
     if (line.startsWith("[") && line.endsWith("]")) return "speech-bracket";
@@ -55,7 +56,7 @@ function lineType(line, isTranslated) {
 
 const SPEAKER_MAP = new Map([
   ["彦麻呂", "Hikomaro"],
-  ["咲美", "Saki"],
+  ["咲美", "Sakimi"],
   ["雪菜", "Yukina"],
   ["夫", "Husband"],
   ["横山", "Yokoyama"],
@@ -63,7 +64,7 @@ const SPEAKER_MAP = new Map([
   ["布施", "Fuse"],
   ["芹菜", "Serina"],
   ["叔父", "Uncle"],
-  ["太郎", "Taro"],
+  ["太郎", "Tarou"],
   ["通行人の男Ａ", "Passerby A"],
   ["通行人の男Ｂ", "Passerby B"],
   ["通行人の男Ｃ", "Passerby C"],
@@ -75,14 +76,14 @@ const SPEAKER_MAP = new Map([
   ["徳川のじいちゃん", "Grandpa Tokugawa"],
   ["イケメン店員", "Handsome Clerk"],
   ["巨乳美女", "Busty Beauty"],
-  ["現場の人", "Site Worker"],
-  ["係の人", "Attendant"],
+  ["現場の人", "On-site Worker"],
+  ["係の人", "Staff Member"],
   ["タクシーの運ちゃん", "Taxi Driver"],
   ["黒服の男", "Man in Black"],
-  ["兄貴で旦那", "Aniki-Husband"],
+  ["兄貴で旦那", "Brother-Husband"],
   ["サラリーマン風", "Salaryman-type"],
   ["オジサン", "Old Man"],
-  ["熱血油トカゲ", "Hot-blooded Oil Lizard"],
+  ["熱血油トカゲ", "Hot-blooded Greasy Lizard"],
   ["女の子", "Girl"],
   ["初老の男性", "Elderly Man"],
   ["チャラい男", "Flashy Guy"],
@@ -95,6 +96,7 @@ const SPEAKER_MAP = new Map([
   ["怪しいスカウト", "Shady Scout"],
   ["店員", "Clerk"],
   ["雅史", "Masashi"],
+  ["佐藤のおばあちゃん", "Grandma Sato"],
 ]);
 
 /**
@@ -112,7 +114,10 @@ async function parseSectionsFromChunks(dir) {
     let i = 0;
     while (i < allLines.length) {
       // Scan for the next section separator.
-      if (allLines[i] !== SECTION_SEPARATOR) { i++; continue; }
+      if (allLines[i] !== SECTION_SEPARATOR) {
+        i++;
+        continue;
+      }
 
       const sectionStartLine = i + 1; // 1-indexed
       i++; // skip separator
@@ -157,7 +162,12 @@ async function main() {
 
   // Step 2: Validate each original section against its translated counterpart.
   for (const [fileName, origEntry] of origSections) {
-    const { lines: origLines, lineNos: origLineNos, chunkPath: origChunk, startLine: origStart } = origEntry;
+    const {
+      lines: origLines,
+      lineNos: origLineNos,
+      chunkPath: origChunk,
+      startLine: origStart,
+    } = origEntry;
 
     // Step 2a: Check that the translated chunks have a matching section.
     if (!transSections.has(fileName)) {
@@ -171,7 +181,12 @@ async function main() {
 
     checked++;
     const transEntry = transSections.get(fileName);
-    const { lines: transLines, lineNos: transLineNos, chunkPath: transChunk, startLine: transStart } = transEntry;
+    const {
+      lines: transLines,
+      lineNos: transLineNos,
+      chunkPath: transChunk,
+      startLine: transStart,
+    } = transEntry;
     const sectionErrors = [];
     let firstErrorLineIdx = -1;
 
@@ -229,10 +244,14 @@ async function main() {
 
     if (sectionErrors.length > 0) {
       mismatched++;
-      const origErrLine = firstErrorLineIdx >= 0 && origLineNos[firstErrorLineIdx]
-        ? origLineNos[firstErrorLineIdx] : origStart;
-      const transErrLine = firstErrorLineIdx >= 0 && transLineNos[firstErrorLineIdx]
-        ? transLineNos[firstErrorLineIdx] : transStart;
+      const origErrLine =
+        firstErrorLineIdx >= 0 && origLineNos[firstErrorLineIdx]
+          ? origLineNos[firstErrorLineIdx]
+          : origStart;
+      const transErrLine =
+        firstErrorLineIdx >= 0 && transLineNos[firstErrorLineIdx]
+          ? transLineNos[firstErrorLineIdx]
+          : transStart;
       errors.push({
         header: `✗  ${origChunk}:${origErrLine} | ${transChunk}:${transErrLine} > ${fileName}`,
         details: sectionErrors.map((e) => `   ${e}`),

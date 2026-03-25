@@ -1,0 +1,745 @@
+--------------------
+stage26
+********************
+...And three days later, at noon...
+Knock, knock...
+$Sakimi
+“Hey there~.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Oh?”
+Knock, knock...
+$Sakimi
+“Open up~.”
+$Hikomaro
+“...Please wait a moment.”
+Rattle, rattle, rattle.
+$Sakimi
+“Heave... ho.”
+$Hikomaro
+“You sound like an old lady, indeed.”
+$Sakimi
+“You aren't one to talk; you're acting like a total geezer.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“You were sitting there like some decorative ornament for an alcove. Did your body shrink a size or something?”
+$Hikomaro
+“Please, do not tease Maro.”
+$Sakimi
+“You quit your part-time job, didn't you?”
+$Hikomaro
+“Maro did not quit; he was fired, indeed.”
+$Sakimi
+“Fired?”
+$Hikomaro
+“Yes.”
+$Sakimi
+“Why?”
+$Hikomaro
+“Maro does not quite understand the reason.”
+$Sakimi
+“Did you screw something up?”
+$Hikomaro
+“Screw something up, you say?”
+$Sakimi
+“Like, trying to sneak into Yukina-chan’s bed at night?”
+$Hikomaro
+“If that were the case, Maro would have a much brighter expression, indeed.”
+$Sakimi
+“...I guess so.”
+$Hikomaro
+“More importantly, do you have some business?”
+$Sakimi
+“I told you, I came because I was worried.”
+$Hikomaro
+“After catching wind that Maro stopped working?”
+$Sakimi
+“Yeah.”
+$Hikomaro
+“From whom did you hear such a thing?”
+$Sakimi
+“It's become a bit of a rumor in certain circles.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“That Daisetsutei’s famous 'old man' has disappeared.”
+$Hikomaro
+“...Is that so?”
+$Sakimi
+“You had quite a good reputation, it seems.”
+$Hikomaro
+“Nothing of the sort has reached Maro's ears.”
+$Sakimi
+“The white-faced delivery man with top-tier service. That’s what they were saying with a lot of affection.”
+$Hikomaro
+“...Many things happen, indeed.”
+$Sakimi
+“So, what have you been doing since you stopped working?”
+$Hikomaro
+“For now, Maro has just been idling about. Once the wounds of dismissal have healed, Maro intends to resume his main business of medical practice.”
+$Sakimi
+“...I'm glad you're more positive than I expected.”
+Nodding, she rumbles through her backpack.
+She takes out a familiar-looking paper bag.
+She dangles it by her fingertips, swaying it in front of him.
+$Sakimi
+“I bought takoyaki.”
+$Hikomaro
+“That is, surely...”
+Maro remembers, indeed.
+At the park near the hospital.
+Those takoyaki they ate while sitting on a bench, indeed.
+$Hikomaro
+“Did you go to the park, indeed?”
+$Sakimi
+“I just drifted over there, for some reason.”
+$Hikomaro
+“Alone?”
+$Sakimi
+“Because you won't play with me, Sensei.”
+$Hikomaro
+“You are a busy person as well, are you not?”
+$Sakimi
+“I just get nostalgic for it every now and then.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“That place.”
+$Hikomaro
+“Is that how it is, Maro wonders.”
+$Sakimi
+“The cherry blossom festival starts at the end of the month. There were signs up everywhere.”
+$Hikomaro
+“...Is it already that season, indeed?”
+$Sakimi
+“Yeah.”
+$Hikomaro
+“You should go there with your husband, surely.”
+$Sakimi
+“...”
+$Sakimi
+“...*Sigh*.”
+$Hikomaro
+“Oh dear.”
+$Sakimi
+“Let's eat the takoyaki.”
+$Hikomaro
+“Let us do that.”
+$Sakimi
+“I'll go pour some tea.”
+$Hikomaro
+“...”
+$Hikomaro
+“...She has suddenly lost her energy, indeed.”
+$Hikomaro
+“...”
+$Sakimi
+“...Phew.”
+$Hikomaro
+“Maro seems to be the only one eating.”
+$Sakimi
+“It’s a souvenir for you, Sensei, so it’s perfectly okay.”
+$Hikomaro
+“Then Maro shall tuck in without reservation...”
+*Munch, munch, munch*...
+$Hikomaro
+“It is as delicious as ever, indeed.”
+$Sakimi
+“It looks like your comeback will be quick, Sensei.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“Your appetite seems fine.”
+$Hikomaro
+“Does Madam not have an appetite?”
+$Sakimi
+“Something really shocking happened.”
+$Hikomaro
+“Something involving your husband?”
+$Sakimi
+“Yeah.”
+$Hikomaro
+“...If you like, pray, tell Maro about it.”
+$Sakimi
+“I found hidden cameras.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“There’d been some things bothering me for a while. After I sent you off to your part-time job, I thought 'no way,' but I searched the room, and...”
+$Hikomaro
+“You discovered hidden cameras?”
+$Sakimi
+“...Two of them. One in the ceiling light, and one in the closet.”
+$Hikomaro
+“Could it be in that Japanese-style room, indeed?”
+$Sakimi
+“...Bingo.”
+$Hikomaro
+“He went to the trouble on the day Maro was to stay?”
+$Sakimi
+“...He went to the trouble.”
+$Hikomaro
+“Maro shall refrain from saying anything, but is that how it is, indeed?”
+$Sakimi
+“I think that's likely.”
+$Hikomaro
+“To see 'this' or 'that' beginning to happen, indeed?”
+$Sakimi
+“I’m starting to think him kicking me out of the dressing room was on purpose, too.”
+$Hikomaro
+“...Deep-seated as ever, indeed.”
+$Sakimi
+“Does Ma-kun hate me?”
+$Hikomaro
+“But he did say he loved you, Madam.”
+$Sakimi
+“It might be strange to say it myself, but I feel like Ma-kun’s feelings aren't a lie.”
+$Hikomaro
+“Maro agrees with that.”
+$Sakimi
+“Then why would he do something like that?”
+$Hikomaro
+“Perhaps it is because he truly loves you, Madam?”
+$Sakimi
+“Do you understand Ma-kun’s feelings, Sensei?”
+$Hikomaro
+“Perhaps he is anxious, indeed.”
+$Sakimi
+“...Anxious?”
+$Hikomaro
+“He may be choosing an extreme method to confirm whether his own feelings for his partner are true, and whether the feelings of the person he loves for him are unwavering.”
+$Sakimi
+“I don't really get it.”
+$Hikomaro
+“Shall Maro go to stay again?”
+$Sakimi
+“Eh?”
+$Hikomaro
+“At Madam’s house.”
+$Sakimi
+“What would you do if you stayed?”
+$Hikomaro
+“It is not as if Maro would 'do' anything, but Maro thought it might be painful for you to worry alone.”
+$Sakimi
+“Sensei, you're sweet.”
+$Hikomaro
+“It is not a matter concerning someone else, after all.”
+$Sakimi
+“...I'll wait and see how things go for a little while longer.”
+$Hikomaro
+“That is also a way, Maro suppose.”
+$Sakimi
+“I don't want to think about it too much anymore.”
+$Hikomaro
+“Things are likely at their most twisted right now; time may resolve it, indeed.”
+$Sakimi
+“I hope so... *sigh*...”
+...And a week later...
+$Hikomaro
+“...”
+$Hikomaro
+“...Phew.”
+Underground doctor, Hikomaro, age 45.
+A genuine "Maro-type," not some half-baked imitation.
+His head is clear.
+His skin is glossy.
+Body and mind are in peak condition.
+Well, perhaps not peak.
+But he has managed to heal the wounds of his dismissal.
+And returned once more to the path of medicine, indeed.
+$Hikomaro
+“Next person, please enter, indeed.”
+$Busty Beauty
+“Coming~.”
+$Yukina
+“Excuse me, Sensei.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Eh?”
+$Yukina
+“Hnh, it's been a while.”
+$Hikomaro
+“W-Well, hello.”
+$Yukina
+“...”
+$Hikomaro
+“Hnh, what is the matter today, indeed?”
+$Yukina
+“I’m feeling a bit unwell.”
+$Hikomaro
+“A cold, perhaps?”
+$Yukina
+“My stomach hurts a little, too.”
+$Hikomaro
+“That will not do.”
+$Yukina
+“...”
+$Hikomaro
+“Um.”
+$Yukina
+“Yes.”
+$Hikomaro
+“Is the shop alright, indeed?”
+$Yukina
+“...Wednesdays have become our regular holiday.”
+$Hikomaro
+“You must be joking, indeed.”
+$Yukina
+“It was the request of the new part-timer.”
+$Hikomaro
+“...”
+$Yukina
+“...Will you examine me?”
+$Hikomaro
+“M-Naturally, indeed. Well then, pull your sweater up...”
+$Yukina
+“Yes.”
+Boing.
+$Hikomaro
+“Oh...”
+$Yukina
+“...Is it okay if I leave my underwear on?”
+$Hikomaro
+“Y-Yes.”
+His hands tremble with emotion.
+His voice trembles with excitement.
+Get a grip, Maro!
+$Hikomaro
+“Well then, the stethoscope, indeed...”
+Press...
+$Yukina
+“...”
+Thump-thump, thump-thump...
+$Hikomaro
+“...”
+Thump-thump, thump-thump, thump-thump...
+$Yukina
+“...”
+$Yukina
+“...Um.”
+$Hikomaro
+“Y-Yes.”
+$Yukina
+“How is it?”
+$Hikomaro
+“Hnh, what was it again?”
+$Yukina
+“The sound... from the stethoscope...”
+$Hikomaro
+“Y-Yes, that’s right, indeed.”
+Enchanted by the sound of her heartbeat.
+He forgets the passage of time.
+She truly is a special existence.
+Maro is reminded of that fact once again.
+$Hikomaro
+“W-Well then, once more, indeed.”
+Press...
+$Yukina
+“...”
+$Yukina
+“...Is it pounding?”
+$Hikomaro
+“W-Well, Maro does have a heart, after all.”
+$Yukina
+“Pounding more than usual?”
+$Hikomaro
+“If you say so, perhaps a little... indeed.”
+$Yukina
+“...I knew it.”
+$Hikomaro
+“You knew it?”
+$Yukina
+“Hnh, I’m more embarrassed than I expected.”
+$Hikomaro
+“Maro can imagine, indeed.”
+$Yukina
+“I'm being too self-conscious, aren't I.”
+$Hikomaro
+“Shall we start with the back first, indeed?”
+$Yukina
+“Hnh, I’m fine like this.”
+$Hikomaro
+“Well then, Maro shall continue...”
+$Yukina
+“Um...”
+$Hikomaro
+“Yes.”
+$Yukina
+“...You’re... angry with my brother, aren't you?”
+$Hikomaro
+“...”
+$Yukina
+“Of course, it's only natural that you would be. You're the one who made the shop thrive, and my brother knows that too.”
+$Hikomaro
+“It was not exactly Maro's power alone, indeed...”
+$Yukina
+“And yet, that was the only way he could say it. But in his heart, he feels sorry, and yet he acted like that.”
+$Hikomaro
+“W-What is this all of a sudden, indeed?”
+$Yukina
+“In truth, he should be prostrating himself and apologizing to you. A relative we’re indebted to asked him to hire their son as a part-timer just for spring break.”
+$Hikomaro
+“...”
+$Hikomaro
+“...And so Maro was fired?”
+$Yukina
+“He stubbornly believes we can only hire one person.”
+$Hikomaro
+“So that was the reason, indeed.”
+$Yukina
+“It wasn't because you made a mistake at work, or because you caused trouble for a customer, or anything like that at all.”
+$Hikomaro
+“...Did you perhaps come here just to say that?”
+$Yukina
+“Hnh, I'm truly sorry.”
+$Hikomaro
+“...”
+$Yukina
+“Please forgive my foolish brother.”
+She sits properly in seiza.
+She bows her head as if touching her forehead to the floor with three fingers.
+Forgetting to pull her sweater back down.
+She remained perfectly still in that position.
+$Hikomaro
+“Maro is not angry in the slightest.”
+$Yukina
+“...Eh?”
+$Hikomaro
+“It was a shock, certainly.”
+$Yukina
+“...”
+$Hikomaro
+“In any case, Maro is glad to know the circumstances, indeed.”
+$Yukina
+“Hnh, you forgive him?”
+$Hikomaro
+“Forgive him or not, it was the owner's decision, indeed.”
+Just as he said that.
+A strange sound came from the ceiling.
+The presence of someone on the second floor.
+$Hikomaro
+“Oh?”
+A bad feeling.
+A glance at the clock showed it was past noon.
+That time of day doubled Maro's restless feeling.
+$Hikomaro
+“Hnh, the window lock is...”
+Oh no.
+When Maro hung the underwear out to dry.
+Maro left it open, indeed.
+$Sakimi
+“Kakinomata Sensei~.”
+$Hikomaro
+“O-Maro's premonition was correct, indeed.”
+$Sakimi
+“Are you in the examination room?”
+$Hikomaro
+“M-Maro is not!”
+$Sakimi
+“...Found you.”
+$Sakimi
+“Morning examinations should be over by now—”
+Ah...
+$Yukina
+“Ah, Ayase-san?”
+$Sakimi
+“...Yukina-chan?”
+$Hikomaro
+“Hnh, you mustn't simply enter as you please, indeed!”
+$Sakimi
+“What, are you bullying her?”
+$Hikomaro
+“M-Maro is not bullying her at all!”
+$Sakimi
+“Are you forcing her into a prostration play?”
+$Hikomaro
+“W-What on earth is that?”
+$Sakimi
+“Yukina-chan.”
+$Yukina
+“Y-Yes.”
+$Sakimi
+“Tell me what horrible thing he did to you. I'll beat him to a pulp for you.”
+$Yukina
+“N-No, that's not it.”
+$Sakimi
+“You don't have to be scared. If Sensei goes on a rampage, I'll take him down.”
+$Yukina
+“Hnh, it's really not that.”
+$Sakimi
+“...Is it?”
+$Yukina
+“Y-Yes.”
+$Sakimi
+“You aren't being bullied?”
+$Yukina
+“I'm not being bullied.”
+$Sakimi
+“He didn't touch your breasts or anything?”
+$Yukina
+“W-Well, a little bit...”
+$Sakimi
+“See?!”
+$Hikomaro
+“Th-This is a hospital, is it not?!”
+$Sakimi
+“...”
+$Sakimi
+“...Right.”
+$Hikomaro
+“W-What on earth is your business, indeed?”
+$Sakimi
+“I thought we could have lunch together again today... see?”
+$Hikomaro
+“T-Takoyaki again?”
+$Sakimi
+“I really feel at ease when I go there.”
+$Yukina
+“...I know that takoyaki.”
+$Sakimi
+“Really?”
+$Yukina
+“The one that comes to Tomogahara Park in a light truck...”
+$Sakimi
+“That's the one.”
+$Yukina
+“They're quite famous, aren't they.”
+$Sakimi
+“Yukina-chan, eat with us.”
+$Yukina
+“B-But...”
+$Sakimi
+“It's been a while since the three of us talked.”
+Madam says that.
+She pushes the back of the standing Yukina-chan.
+She climbs the stairs to the second floor of her own accord.
+At times like this, she has some idea in mind.
+Maro has no choice but to follow quietly behind.
+$Yukina
+“They’re just as good as the reputation says.”
+$Sakimi
+“Right?”
+$Yukina
+“This sort of thing is a good study for me.”
+$Sakimi
+“Yukina-chan, do you want to start going there too?”
+$Yukina
+“Pardon?”
+$Sakimi
+“To Tomogahara Park, where the takoyaki truck is.”
+$Yukina
+“Ayase-san, do you go there every day just to buy these...?”
+$Sakimi
+“To be honest, the takoyaki are just a bonus, I guess.”
+$Yukina
+“...A bonus?”
+$Hikomaro
+“She is simply mentally ill, indeed.”
+$Sakimi
+“Don't say it like that.”
+$Hikomaro
+“M-Maro is only joking, indeed.”
+$Sakimi
+“The pond and the greenery are so pretty, it washes your soul.”
+$Hikomaro
+“Is it not the season where the leaves have fallen, indeed?”
+$Sakimi
+“There are evergreen trees, aren't there?”
+$Hikomaro
+“Ever-green?”
+$Yukina
+“Ugh...”
+$Sakimi
+“Evergreen trees!”
+$Hikomaro
+“Y-Yes, of course, indeed.”
+$Sakimi
+“If you keep making those 'old man' jokes, Yukina-chan’s going to hate you.”
+$Hikomaro
+“Maro truly made a mistake, indeed.”
+$Sakimi
+“Maybe you should gaze at the pretty pond and greenery and do some 'soul washing' too, Sensei...”
+Right?
+$Yukina
+“?”
+For some reason, she looks to Yukina for agreement.
+$Sakimi
+“Don't you think so, Yukina-chan?”
+$Yukina
+“Hnh, that might be nice.”
+$Sakimi
+“Then let's all go together, the three of us.”
+$Yukina
+“Eh?”
+$Sakimi
+“To Tomogahara Park.”
+$Yukina
+“B-But the shop...”
+$Sakimi
+“Are you open year-round?”
+$Yukina
+“Wednesdays are our holiday now, but my brother's doing prep and shopping, so I'd feel bad if I was the only one going out...”
+$Sakimi
+“Then how about at night?”
+$Yukina
+“...At night?”
+$Sakimi
+“If Wednesday is your holiday, how about Tuesday night?”
+$Yukina
+“...”
+$Sakimi
+“If we go at the end of the month, we can see the night cherry blossoms.”
+$Yukina
+“...Night cherry blossoms.”
+$Sakimi
+“It’s incredibly romantic, you know.”
+$Hikomaro
+“...That sounds quite wonderful, indeed.”
+$Sakimi
+“Sensei is in favor, for a start.”
+$Yukina
+“...”
+$Sakimi
+“Now we’re just waiting for Yukina-chan’s answer.”
+$Yukina
+“H-How long does it take by train from here...?”
+$Sakimi
+“By train, it’s a long way around, so about an hour. If it’s at night, the roads should be empty, so if we go by car, we could get there in about twenty minutes.”
+$Yukina
+“Hnh, it's that close by car.”
+$Sakimi
+“But we don't have a car, that's the thing. The light truck only seats two.”
+$Yukina
+“T-Then it can't be helped.”
+$Sakimi
+“Since it can't be helped, should you two go?”
+$Yukina
+“Pardon?”
+$Sakimi
+“Just Sensei and Yukina-chan.”
+$Yukina
+“...”
+$Sakimi
+“I'll lend you the light truck.”
+$Yukina
+“B-But...”
+$Sakimi
+“Sensei, do you have a driver's license?”
+$Hikomaro
+“Maro has nothing that could be called a license, indeed.”
+$Sakimi
+“I see...”
+Wait, what?
+$Hikomaro
+“Something the matter?”
+$Sakimi
+“Hnh, what about your medical license?!”
+$Hikomaro
+“...”
+$Sakimi
+“...”
+$Yukina
+“...?”
+$Hikomaro
+“Maro was talking about anything other than that, indeed.”
+$Sakimi
+“O-Of course.”
+$Yukina
+“Um...”
+$Sakimi
+“Hm?”
+$Yukina
+“Just the two of us is a little...”
+$Sakimi
+“...Is that so?”
+$Yukina
+“Shall I borrow a car from my brother?”
+$Sakimi
+“Eh?”
+$Yukina
+“It's just a small car, but it seats up to four people.”
+$Sakimi
+“Is that okay?”
+$Yukina
+“Hnh, if it's for everyone, I think I can find the courage to ask. I think he'll lend it to me if I ask, too.”
+$Sakimi
+“Can you drive, Yukina-chan?”
+$Yukina
+“Hnh, I'm almost a total 'paper driver', but...”
+$Sakimi
+“Then it's settled.”
+$Hikomaro
+“Phew...”
+$Sakimi
+“The last Tuesday of the month, Sensei.”
+$Hikomaro
+“Maro shall put a circle on the calendar, indeed.”
+$Sakimi
+“Since we’re going by car, alcohol is out, but I'm sure you'll be glad you went.”
+$Yukina
+“...I'm starting to feel that way too.”
+The conversation did not end there.
+The two of them chatted for a while.
+A warm atmosphere flowed.
+Eventually, it was time for them each to return.
+$Yukina
+“Thank you for having me, Sensei.”
+$Hikomaro
+“Thank you for a pleasant time, indeed.”
+$Yukina
+“...I'm truly sorry about my brother.”
+$Hikomaro
+“Let us end that conversation already. Once things have settled down, Maro shall go to eat ramen again, indeed.”
+$Yukina
+“Hnh, please do come!”
+$Sakimi
+“Yukina-chan.”
+$Yukina
+“Yes.”
+$Sakimi
+“Are you stopping anywhere after this?”
+$Yukina
+“I have to help out, so I'm going straight home.”
+$Sakimi
+“Then let's go together part of the way.”
+$Yukina
+“Hnh, I'd love to.”
+$Sakimi
+“As usual, I'll exit through the window.”
+$Yukina
+“Then I'll wait for you outside.”
+$Hikomaro
+“...”
+$Sakimi
+“See ya, Sensei.”
+$Hikomaro
+“Thank you for the meal, indeed.”
+$Sakimi
+“Do your best, okay?”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“Tuesday night.”
+$Hikomaro
+“Maro feels somewhat apologetic, indeed.”
+$Sakimi
+“...About what?”
+$Hikomaro
+“You have set the stage for Maro, indeed.”
+$Sakimi
+“I told you I was rooting for you, didn't I?”
+$Hikomaro
+“Maro shall do his best to meet your expectations, indeed.”
+$Sakimi
+“Good boy.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Even though she is worrying about her husband herself, indeed.”
+$Hikomaro
+“...”
+$Hikomaro
+“...A truly kind Madam, indeed.”
